@@ -136,6 +136,7 @@ private:
         /* return the (unchanged) node pointer */
         return node;
     }
+
     void inOrder(AVLNode *node, void (*each)(T))
     {
         if (node == NULL)
@@ -147,14 +148,14 @@ private:
         inOrder(node->right, each);
     }
 
-    bool contains(AVLNode *node, T element) {
+    T contains(AVLNode *node, T element) {
         if(node == NULL) {
-            return false;
+            return node;
         }
         if(node->element == element) {
-            return true;
+            return node;
         }
-        else if(node->element > element) {
+        else if(node->element-> element) {
             return contains(node->left, element);
         }
         else {
@@ -176,7 +177,7 @@ public:
     //     root = remove(root, element);
     // }
 
-    bool contains(T element)
+    T contains(T element)
     {
         return this->contains(root, element);
     }
