@@ -1,5 +1,8 @@
 #ifndef AVL_TREE
 #define AVL_TREE
+#include <stdlib.h>
+#include <iostream>
+#include <algorithm>
 
 // based on: https://www.geeksforgeeks.org/avl-tree-set-1-insertion/
 
