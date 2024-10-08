@@ -11,10 +11,26 @@
 using namespace std;
 
 AVL<Book> *library = new AVL<Book>();
+int total = 0;
+int enabled = 0;
+int disabled = 0;
 
 void add(Command command) {
     Book book(command.id, command.data, true);
-    library->insert(book);
+    Book found = library->find(book);
+    if (found.id > 0) {
+        if (!found.enabled) {
+            enabled++;
+            disabled--;
+        }
+        found.title = book.title;
+        found.enabled = true;
+        library->insert(found);
+    } else {
+        library->insert(book);
+        enabled++;
+        total++;
+    }
 };
 
 void find(Command command) {
@@ -30,11 +46,22 @@ void toggle(Command command) {
     if (found.id > 0) {
         found.enabled = !found.enabled;
         library->insert(found);
-        found = library->find(book);
+
+        if (found.enabled) {
+            enabled++;
+            disabled--;
+        } else {
+            enabled--;
+            disabled++;
+        }
     } else {
         cout << "libro_no_encontrado" << '\n';
     }
 };
+
+void count() {
+    cout << std::to_string(total) + " " + std::to_string(enabled) + " " + std::to_string(disabled) << '\n';
+}
 
 
 int main()
@@ -53,12 +80,8 @@ int main()
       } else if (command.type == "TOGGLE") {
           toggle(command);
       } else if (command.type == "COUNT") {
-          cout << "COUNT" << '\n';
-      } else {
-        cout << "Command not handled" << '\n';
+          count();
       }
     }
-
-
     return 0;
 }
