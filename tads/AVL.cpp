@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <iostream>
 #include <algorithm>
+using namespace std;
 
 // based on: https://www.geeksforgeeks.org/avl-tree-set-1-insertion/
 
@@ -99,8 +100,11 @@ private:
             node->left = insert(node->left, element);
         else if (element > node->element)
             node->right = insert(node->right, element);
-        else // Equal elements are not allowed in BST
+        else {
+            // update title and enable
+            node->element = element;
             return node;
+        }
 
         /* 2. Update height of this ancestor AVLnode */
         node->height = 1 + std::max(height(node->left),
@@ -165,6 +169,22 @@ private:
         }
     }
 
+    T find(AVLNode *node, T element) {
+        if(node == NULL) {
+            T empty;
+            return empty;
+        }
+        if(node->element == element) {
+            return node->element;
+        }
+        else if(node->element > element) {
+            return find(node->left, element);
+        }
+        else {
+            return find(node->right, element);
+        }
+    }
+
 public:
     AVL() : root(NULL) {}
 
@@ -182,6 +202,11 @@ public:
     bool contains(T element)
     {
         return this->contains(root, element);
+    }
+
+    T find(T element)
+    {
+        return this->find(root, element);
     }
 
     void inOrder(void (*each)(T))

@@ -10,25 +10,48 @@
 
 using namespace std;
 
+AVL<Book> *library = new AVL<Book>();
+
+void add(Command command) {
+    Book book(command.id, command.data, true);
+    library->insert(book);
+};
+
+void find(Command command) {
+    Book book(command.id, command.data, true);
+    Book found = library->find(book);
+    string response = found.id == 0 ? "libro_no_encontrado" : found.toString();
+    cout << response << '\n';
+};
+
+void toggle(Command command) {
+    Book book(command.id, command.data, true);
+    Book found = library->find(book);
+    if (found.id > 0) {
+        found.enabled = !found.enabled;
+        library->insert(found);
+        found = library->find(book);
+    } else {
+        cout << "libro_no_encontrado" << '\n';
+    }
+};
+
 
 int main()
 {
-    AVL<Book> *library = new AVL<Book>();
-
     int lines;
     cin >> lines;
     Command *commands = loadCommands(lines);
     Command command;
-    for (int i = 0; i <= lines; i++)
+    for (int i = 1; i <= lines; i++)
     {
         command = commands[i];
       if (command.type == "ADD") {
-        Book book(command.id, command.data, true);
-        library->insert(book);
+          add(command);
       } else if (command.type == "FIND") {
-          cout << "FIND" << '\n';
+          find(command);
       } else if (command.type == "TOGGLE") {
-          cout << "TOGGLE" << '\n';
+          toggle(command);
       } else if (command.type == "COUNT") {
           cout << "COUNT" << '\n';
       } else {
