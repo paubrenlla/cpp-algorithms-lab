@@ -11,25 +11,24 @@ struct Libro
     string titulo;
     bool habilitado;
 
-    //Constructor
-    Libro(int unId, string unTitulo): id(unId), titulo(unTitulo), habilitado(true) {}
-    Libro(int unId): id(unId), titulo(" "), habilitado(true) {}
+    // Constructor
+    Libro(int unId, string unTitulo) : id(unId), titulo(unTitulo), habilitado(true) {}
 };
-
 
 class BibliotecaAVL
 {
 private:
     struct AVLNode
     {
-        Libro libro;
+        Libro* libro;
         AVLNode *left;
         AVLNode *right;
         int height;
-        AVLNode(Libro unLibro) : libro(unLibro), left(NULL), right(NULL), height(1) {}
+        AVLNode(Libro* unLibro) : libro(unLibro), left(NULL), right(NULL), height(1) {};
+        AVLNode() : libro(NULL), left(NULL), right(NULL), height(0) {};
     };
 
-    AVLNode* root; // root of the tree
+    AVLNode *root; // root of the tree
     int cantLibros;
     int cantHabilitados;
 
@@ -101,23 +100,28 @@ private:
     // Recursive function to insert a element
     // in the subtree rooted with node and
     // returns the new root of the subtree.
-    AVLNode *insert(AVLNode* node, Libro unLibro)
+    AVLNode *insert(AVLNode *node, int id, string titulo)
     {
         /* 1. Perform the normal BST insertion */
-        if (node == NULL)
-            return new AVLNode(unLibro);
+        if (node == NULL) {
             this->cantHabilitados++;
             this->cantLibros++;
-        if (unLibro.id < node->libro.id)
-            node->left = insert(node->left, unLibro);
-        else if (unLibro.id > node->libro.id)
-            node->right = insert(node->right, unLibro);
-        else{ // Equal elements are not allowed in BST
-            if (node->libro.habilitado == false)
+            Libro* libroNuevo = new Libro(id, titulo);
+            return new AVLNode(libroNuevo);
+        }
+        else if (id < node->libro->id){
+            node->left = insert(node->left, id, titulo);
+        }
+        else if (id > node->libro->id){
+            node->right = insert(node->right, id, titulo);
+        }
+        else
+        { // Equal elements are not allowed in BST
+            if (node->libro->habilitado == false)
             {
                 cantHabilitados++;
             }
-            node->libro = unLibro;
+            node->libro->titulo = titulo;
             return node;
         }
 
@@ -134,22 +138,22 @@ private:
         // there are 4 cases
 
         // Left Left Case
-        if (balance < -1 && unLibro.id < node->left->libro.id)
+        if (balance < -1 && id < node->left->libro->id)
             return rightRotate(node);
 
         // Right Right Case
-        if (balance > 1 && unLibro.id > node->right->libro.id)
+        if (balance > 1 && id > node->right->libro->id)
             return leftRotate(node);
 
         // Left Right Case
-        if (balance < -1 && unLibro.id > node->left->libro.id)
+        if (balance < -1 && id > node->left->libro->id)
         {
             node->left = leftRotate(node->left);
             return rightRotate(node);
         }
 
         // Right Left Case
-        if (balance > 1 && unLibro.id < node->right->libro.id)
+        if (balance > 1 && id < node->right->libro->id)
         {
             node->right = rightRotate(node->right);
             return leftRotate(node);
@@ -159,34 +163,54 @@ private:
         return node;
     }
 
-    string contains(AVLNode *node, int unId) {
-        if(node == NULL) {
+    string contains(AVLNode *node, int unId)
+    {
+        if (node == NULL)
+        {
             return "libro_no_encontrado";
         }
-        if(node->libro.id == unId) {
-            return node->libro.titulo + " " + libroHabilitado(node->libro.habilitado);
+        if (node->libro->id == unId)
+        {
+            return node->libro->titulo + " " + libroHabilitado(node->libro->habilitado);
         }
-        else if(node->libro.id > node->libro.id) {
+        else if (unId < node->libro->id)
+        {
             return contains(node->left, unId);
         }
-        else {
+        else
+        {
             return contains(node->right, unId);
         }
     }
 
-    string toogle(AVLNode *node, int unId) {
-        if(node == NULL) {
+    string toggle(AVLNode *node, int unId)
+    {
+        if (node == NULL)
+        {
             return "libro_no_encontrado";
         }
-        if(node->libro.id == unId) {
-            node->libro.id = false;
-            return node->libro.titulo + " " + libroHabilitado(node->libro.habilitado);
+        if (node->libro->id == unId)
+        {
+            if (node->libro->id == false)
+            {
+                node->libro->habilitado = true;
+                this->cantHabilitados++;
+            }
+            else
+            {
+                node->libro->habilitado = false;
+                this->cantHabilitados--;
+            }
+
+            return "existe";
         }
-        else if(node->libro.id > node->libro.id) {
-            return toogle(node->left, unId);
+        else if (node->libro->id > unId)
+        {
+            return toggle(node->left, unId);
         }
-        else {
-            return toogle(node->right, unId);
+        else
+        {
+            return toggle(node->right, unId);
         }
     }
 
@@ -196,7 +220,7 @@ private:
         {
             return "H";
         }
-        else 
+        else
         {
             return "D";
         }
@@ -205,29 +229,66 @@ private:
 public:
     BibliotecaAVL() : root(NULL), cantLibros(0), cantHabilitados(0) {}
 
-    void insert(int unId, string unNombre)
+    void add(int unId, string unNombre)
     {
-        root = insert(root, Libro(unId, unNombre));
+        root = insert(root, unId, unNombre);
     }
 
-    string contains(int unId)
+    string find(int unId)
     {
         return this->contains(root, unId);
     }
 
-    string toogle(int unId)
+    string toggle(int unId)
     {
-        return this->toogle(root, unId);
+        return this->toggle(root, unId);
     }
 
-    string totales()
+    string count()
     {
         int totalDesHab = this->cantLibros - this->cantHabilitados;
-        return std::to_string(this->cantLibros) + " " + std::to_string(this->cantHabilitados) + " " + std::to_string(totalDesHab);
+        return to_string(this->cantLibros) + " " + to_string(this->cantHabilitados) + " " + to_string(totalDesHab);
     }
-
 };
 
-int main(){
+int main()
+{
+    int n;
+    cin >> n;
+    string command;
+    int id;
+    string name;
 
+    BibliotecaAVL *biblioteca = new BibliotecaAVL();
+
+    for (int i = 0; i < n; ++i)
+    {
+        cin >> command;
+        if (command == "ADD")
+        {
+            cin >> id >> ws;
+            getline(cin, name);
+            biblioteca->add(id, name);
+        }
+        else if (command == "FIND")
+        {
+            cin >> id;
+            cout << biblioteca->find(id) << endl;
+        }
+        else if (command == "TOGGLE")
+        {
+            cin >> id;
+            string resultado = biblioteca->toggle(id);
+            if (resultado != "existe")
+            {
+                cout << resultado << endl;
+            }
+        }
+        else if (command == "COUNT")
+        {
+            cout << biblioteca->count() << endl;
+        }
+    }
+
+    return 0;
 }
