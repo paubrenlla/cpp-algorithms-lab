@@ -2,57 +2,36 @@
 #include <string>
 #include <iostream>
 #include <limits>
+#include <sstream>
 #include "./tads/AVL.cpp"
+#include "./models/Command.cpp"
+#include "./models/Book.cpp"
+#include "./funciones/io.cpp"
 
 using namespace std;
 
-class Book
-{
-public:
-    int id;
-    string title;
-    bool enabled;
-    Book(int id, string title, bool enabled)
-    {
-        this->id = id;
-        this->title = title;
-        this->enabled = enabled;
-    }
-
-    bool operator<(const Book& other) const
-    {
-      return this->id < other.id;
-    }
-    bool operator>(const Book& other) const
-    {
-        return this->id > other.id;
-    }
-    bool operator==(const Book& other)
-    {
-        return this->id == other.id;
-    }
-};
 
 int main()
 {
-  AVL<Book> *library = new AVL<Book>();
+    AVL<Book> *library = new AVL<Book>();
 
     int lines;
     cin >> lines;
+    Command *commands = loadCommands(lines);
 
-    string *vec = new string[lines];
-    string line;
-    int i = 0;
-    while (getline(cin, line))
+    for (int i = 0; i <= lines; i++)
     {
-        vec[i] = line;
-        i++;
-    }
-
-
-    for (int i = 0; i < lines; i++)
-    {
-        cout << vec[i] << '\n';
+      if (commands[i].type == "ADD") {
+          cout << "ADD" << '\n';
+      } else if (commands[i].type == "FIND") {
+          cout << "FIND" << '\n';
+      } else if (commands[i].type == "TOGGLE") {
+          cout << "TOGGLE" << '\n';
+      } else if (commands[i].type == "COUNT") {
+          cout << "COUNT" << '\n';
+      } else {
+        cout << "Command not handled" << '\n';
+      }
     }
 
 
