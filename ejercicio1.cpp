@@ -25,7 +25,6 @@ private:
         AVLNode *right;
         int height;
         AVLNode(Libro* unLibro) : libro(unLibro), left(NULL), right(NULL), height(1) {};
-        AVLNode() : libro(NULL), left(NULL), right(NULL), height(0) {};
     };
 
     AVLNode *root; // root of the tree
@@ -104,9 +103,11 @@ private:
     {
         /* 1. Perform the normal BST insertion */
         if (node == NULL) {
-            this->cantHabilitados++;
-            this->cantLibros++;
             Libro* libroNuevo = new Libro(id, titulo);
+
+            this->cantLibros++;
+            this->cantHabilitados++;
+
             return new AVLNode(libroNuevo);
         }
         else if (id < node->libro->id){
@@ -119,6 +120,7 @@ private:
         { // Equal elements are not allowed in BST
             if (node->libro->habilitado == false)
             {
+                node->libro->habilitado = true;
                 cantHabilitados++;
             }
             node->libro->titulo = titulo;
@@ -173,7 +175,7 @@ private:
         {
             return node->libro->titulo + " " + libroHabilitado(node->libro->habilitado);
         }
-        else if (unId < node->libro->id)
+        if (node->libro->id > unId)
         {
             return contains(node->left, unId);
         }
@@ -191,7 +193,7 @@ private:
         }
         if (node->libro->id == unId)
         {
-            if (node->libro->id == false)
+            if (node->libro->habilitado == false)
             {
                 node->libro->habilitado = true;
                 this->cantHabilitados++;
