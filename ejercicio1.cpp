@@ -255,21 +255,21 @@ public:
 
 int main()
 {
+    BibliotecaAVL *biblioteca = new BibliotecaAVL();
+    
     int n;
     cin >> n;
     string command;
     int id;
     string name;
 
-    BibliotecaAVL *biblioteca = new BibliotecaAVL();
-
     for (int i = 0; i < n; ++i)
     {
         cin >> command;
         if (command == "ADD")
         {
-            cin >> id >> ws;
-            getline(cin, name);
+            cin >> id;
+            cin >> name;
             biblioteca->add(id, name);
         }
         else if (command == "FIND")
