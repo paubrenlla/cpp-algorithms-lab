@@ -1,8 +1,6 @@
 #include <cassert>
 #include <string>
 #include <iostream>
-#include <limits>
-#include <sstream>
 #include "./tads/AVL.cpp"
 #include "./models/Command.cpp"
 #include "./models/Book.cpp"
@@ -70,7 +68,7 @@ int main()
     cin >> lines;
     Command *commands = loadCommands(lines);
     Command command;
-    for (int i = 1; i <= lines; i++)
+    for (int i = 0; i <= lines; i++)
     {
         command = commands[i];
       if (command.type == "ADD") {

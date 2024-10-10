@@ -1,16 +1,25 @@
 #include "../models/Command.cpp"
 
-Command* loadCommands(int lines) {
+Command* loadCommands(int amount) {
 
-    Command *commands = new Command[lines]();
+    Command *commands = new Command[amount]();
     string line;
-
-    int i = 0;
-    while (getline(cin, line))
+    string type = "";
+    int id = 0;
+    string data = "";
+    for (int i = 0; i < amount; i++)
     {
-        Command command(line);
+        cin >> type;
+        if (type == "ADD") {
+            cin >> id;
+            cin >> data;
+        } else if (type == "FIND" || type == "TOGGLE") {
+            cin >> id;
+        }
+        Command command(type, id, data);
         commands[i] = command;
-        i++;
+        id = 0;
+        data = "";
     }
     return commands;
 }
