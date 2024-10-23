@@ -9,7 +9,7 @@ outputs=("11.out.txt" "100.out.txt" "1000.out.txt" "10000.out.txt" "100000.out.t
 
 # Directorio de pruebas
 test_dir="tests/ejercicio2"
-output_dir="tests/ejercicio2Outs"
+output_dir="tests/ejercicio2outs"
 
 # Crear el directorio de salida si no existe
 mkdir -p "$output_dir"
@@ -21,7 +21,7 @@ for i in ${!inputs[@]}; do
     actual_output="${output_dir}/${inputs[$i]%.in.txt}.myout.txt"
 
     # Ejecutar el programa con la entrada
-    ./ejercicio1 < "$input" > "$actual_output"
+    ./ejercicio2 < "$input" > "$actual_output"
 
     # Comparar la salida actual con la esperada y contar diferencias
     diff_count=$(diff -y --suppress-common-lines "$actual_output" "$expected_output" | wc -l)
