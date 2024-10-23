@@ -9,7 +9,7 @@ outputs=("11.out.txt" "100.out.txt" "1000.out.txt" "10000.out.txt" "100000.out.t
 
 # Directorio de pruebas
 test_dir="tests/ejercicio2"
-output_dir="tests/ejercicio2outs"
+output_dir="tests/ejercicio2Outs"
 
 # Crear el directorio de salida si no existe
 mkdir -p "$output_dir"

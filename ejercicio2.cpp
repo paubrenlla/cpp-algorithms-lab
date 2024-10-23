@@ -25,17 +25,17 @@ private:
 
     int funcionHash1(int key)
     {
-        return hacerPositivo(key * 31);
+        return key * 31;
     }
 
     int funcionHash2(int key)
     {
-        return hacerPositivo(potencia(key, 2));
+        return potencia(key, 2);
     }
 
     int getIndex(int key, int intentos)
     {
-        return (this->funcionHash1(key) + this->funcionHash2(key) * intentos) % this->buckets;
+        return hacerPositivo((this->funcionHash1(key) + this->funcionHash2(key) * intentos) % this->buckets);
     }
 
     string libroHabilitado(bool hab)
@@ -73,6 +73,14 @@ public:
         {
             indice = this->getIndex(unId, intentos);
 
+            if (this->libros[indice] == NULL)
+            {
+                this->libros[indice] = new Libro(unId, unNombre);
+                this->cantLibros++;
+                this->cantHabilitados++;
+                return;
+            }
+
             if (this->libros[indice]->id == unId)
             {
                 if (this->libros[indice]->habilitado != true)
@@ -82,13 +90,6 @@ public:
                 }
 
                 this->libros[indice]->titulo = unNombre;
-                return;
-            }
-            if (this->libros[indice] == NULL)
-            {
-                Libro* nuevo = new Libro(unId, unNombre);
-                this->cantLibros++;
-                this->cantHabilitados++;
                 return;
             }
 
@@ -105,13 +106,14 @@ public:
         {
             indice = this->getIndex(unId, intentos);
 
-            if (this->libros[indice]->id == unId)
-            {
-                return this->libros[indice]->titulo + " " + this->libroHabilitado(this->libros[indice]->habilitado);
-            }
             if (this->libros[indice] == NULL)
             {
                 return "libro_no_encontrado";
+            }
+
+            if (this->libros[indice]->id == unId)
+            {
+                return this->libros[indice]->titulo + " " + this->libroHabilitado(this->libros[indice]->habilitado);
             }
 
             intentos++;
@@ -126,6 +128,11 @@ public:
         while (intentos < this->buckets)
         {
             indice = this->getIndex(unId, intentos);
+
+            if (this->libros[indice] == NULL)
+            {
+                return "libro_no_encontrado";
+            }
 
             if (this->libros[indice]->id == unId)
             {
@@ -143,10 +150,6 @@ public:
                 return "existe";
 
             }
-            if (this->libros[indice] == NULL)
-            {
-                return "libro_no_encontrado";
-            }
 
             intentos++;
         }
@@ -158,9 +161,6 @@ public:
         return to_string(this->cantLibros) + " " + to_string(this->cantHabilitados) + " " + to_string(totalDesHab);
     }
 
-
-    
-
 };
 
 int main()
@@ -168,7 +168,7 @@ int main()
     int n;
     cin >> n;
     
-    BibliotecaHash *biblioteca = new BibliotecaHash(n);
+    BibliotecaHash* biblioteca = new BibliotecaHash(n);
     
     string command;
     int id;
