@@ -14,7 +14,7 @@ private:
         int id;
         int precio;
 
-        ObjetoEstanteria(int unId, int unPrecio): id(unId), precio(unPrecio);
+        ObjetoEstanteria(int unId, int unPrecio): id(unId), precio(unPrecio) {};
     };
 
     ObjetoEstanteria** objetos;
@@ -25,15 +25,42 @@ private:
 
     void actualizar(int id, int precio)
     {
+        for (int i = 1; i <= this->ultimo; i++)
+        {
+            if (this->objetos[i]->id == id)
+            {
+                if (this->objetos[i]->precio > precio)
+                {
+                    this->objetos[i]->precio = precio;
+                    this->flotar(i);
+                }
+                return;
+            }
+        }
+        
+           
+    }
+
+    void flotar(int pos)
+    {
 
     }
 
     void agregar (int id, int precio)
     {
-
+        this->ultimo = this->ultimo + 1;
+        this->objetos[this->ultimo] = new ObjetoEstanteria(id, precio);
+        this->flotar(this->ultimo);
     }
 
     void pop()
+    {
+        this->objetos[1] = this->objetos[this->ultimo];
+        this->ultimo--;
+        this->hundir(1);
+    }
+
+    void hundir(int pos)
     {
 
     }
@@ -44,9 +71,9 @@ public:
     {
         this->size = esperados + 1;
 
-        this->existencia = new int[this->size];
+        this->existencia = new bool[this->size];
 
-        this->objetos = new ObjetosEstanteriaBH*[this->size];
+        this->objetos = new ObjetoEstanteria*[this->size];
 
         for (int i = 0; i < this->size; i++)
         {
@@ -83,26 +110,26 @@ public:
 
 int main()
 {
-    int n = 0,
-    cin > n;
+    int n = 0;
+    cin >> n;
 
-    ObjetosEstanteriaBH objetos = new ObjetosEstanteriaBH(n);
+    ObjetosEstanteriaBH* objetos = new ObjetosEstanteriaBH(n);
 
     int id = -1;
     int precio = -1;
 
     for (int i = 0; i < n; i++)
     {
-        cin > id;
-        cin > precio;
-        objetos.add(id, precio);
+        cin >> id;
+        cin >> precio;
+        objetos->add(id, precio);
     }
     
-    cin > n;
+    cin >> n;
 
     for (int i = 0; i < n; i++)
     {
-        cout < objetos.masBarato();
+        cout << objetos->masBarato();
     }
     
 
