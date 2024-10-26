@@ -1,7 +1,5 @@
-#include <cassert>
 #include <string>
 #include <iostream>
-#include <limits>
 #include "./tads/HashTableOpenAddressing.cpp"
 #include "./models/Book.cpp"
 
@@ -24,6 +22,8 @@ unsigned int hash2(const std::string& str) {
 
 int main()
 {
-    HashTableOpenAddressing<std::string, int> library(10, hash1, hash2);
+    int size;
+    cin >> size;
+    HashTableOpenAddressing<std::string, int> library(size, hash1, hash2);
     return 0;
 }

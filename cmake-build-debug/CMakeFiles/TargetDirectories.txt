@@ -1,0 +1,3 @@
+/Users/emi/git/ort/eda2/ObligatorioEDA2/cmake-build-debug/CMakeFiles/ObligatorioEDA2.dir
+/Users/emi/git/ort/eda2/ObligatorioEDA2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emi/git/ort/eda2/ObligatorioEDA2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
