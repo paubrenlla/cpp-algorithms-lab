@@ -43,7 +43,11 @@ private:
 
     void flotar(int pos)
     {
-
+        if ((pos > 1) && (this->objetos[pos/2]->precio < this->objetos[pos]->precio))
+        {
+            this->swap(pos, pos/2);
+            this->hundir(pos/2);
+        }
     }
 
     void agregar (int id, int precio)
@@ -62,7 +66,28 @@ private:
 
     void hundir(int pos)
     {
+        while (pos*2 <= this->size)
+        {
+            int aux = 2*pos;
+            if (this->objetos[aux]->precio < this->objetos[aux + 1]->precio)
+            {
+                aux++;
+            }
+            if (this->objetos[pos]->precio >= this->objetos[aux]->precio)
+            {
+                break;
+            }
+            this->swap(aux, pos);
+            pos = aux;
+        }
+        
+    }
 
+    void swap(int i, int j) 
+    {
+        ObjetoEstanteria* temp = this->objetos[i];
+        this->objetos[i] = this->objetos[j];
+        this->objetos[j] = temp;
     }
 
 public:
