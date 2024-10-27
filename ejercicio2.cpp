@@ -4,6 +4,7 @@
 #include "./models/Book.cpp"
 #include "./models/Command.cpp"
 #include "./funciones/io.cpp"
+#define MAX_SIZE 10000001ll
 
 using namespace std;
 
@@ -11,12 +12,25 @@ HashTableOpenAddressing<int, Book> *library;
 int total = 0;
 int enabled = 0;
 int disabled = 0;
+bitset<MAX_SIZE> isPrime;
+int PRIME;
 
-unsigned int hash1(const int& value) {
-    return value * 8;
+void setSieveEratosthenes(){
+    isPrime[0] = isPrime[1] = 1;
+    for(long long i = 2; i*i <= MAX_SIZE; i++) {
+        if(isPrime[i] == 0) {
+            for(long long j = i*i; j <= MAX_SIZE; j += i) {
+                isPrime[j] = 1;
+            }
+        }
+    }
 }
-unsigned int hash2(const int& value) {
-    return value * 40;
+
+int hash1(const int& value) {
+    return value;
+}
+int hash2(const int& value) {
+    return PRIME - (value % PRIME);
 }
 
 void add(Command command) {
@@ -69,6 +83,12 @@ int main()
 {
     int size;
     cin >> size;
+
+    PRIME = size - 1;
+    while(isPrime[PRIME] == 1) {
+        PRIME--;
+    }
+
     library = new HashTableOpenAddressing<int, Book>(size, hash1, hash2);
     const Command *commands = loadCommands(size);
     for (int i = 0; i <= size; i++)

@@ -17,8 +17,8 @@ private:
     };
 
     int size;
-    unsigned int (*hash1)(const K&);
-    unsigned int (*hash2)(const K&);
+    int (*hash1)(const K&);
+    int (*hash2)(const K&);
     int counter;
     Bucket* table;
     bool* deleted;
@@ -28,7 +28,7 @@ private:
     }
 
     int getBucketIndex(K key, int retry) {
-        return (hash1(key) + retry * hash2(key)) % size;
+        return abs((hash1(key) + retry * hash2(key))) % size;
     }
 
     void insertInBucket(K key, V value, int retry) {
@@ -60,7 +60,7 @@ private:
 
 public:
     HashTableOpenAddressing(
-        int size, unsigned int (*hash1)(const K&), unsigned int (*hash2)(const K&)):
+        int size, int (*hash1)(const K&), int (*hash2)(const K&)):
         size(size), hash1(hash1), hash2(hash2) {
         this->table = new Bucket[size]();
         this->deleted = new bool[size]();
