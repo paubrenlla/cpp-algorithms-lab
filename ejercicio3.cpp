@@ -8,101 +8,141 @@ using namespace std;
 class ObjetosEstanteriaBH
 {
 private:
-
     struct ObjetoEstanteria
     {
         int id;
         int precio;
+        int celda;
 
-        ObjetoEstanteria(int unId, int unPrecio): id(unId), precio(unPrecio) {};
+        ObjetoEstanteria(int unId, int unPrecio, int unaCelda) : id(unId), precio(unPrecio), celda(unaCelda) {};
     };
 
-    ObjetoEstanteria** objetos;
-    int size;
-    bool* existencia;
+    ObjetoEstanteria **objetos;
+
+    ObjetoEstanteria **existencia;
 
     int ultimo;
 
-    void actualizar(int id, int precio)
+    void actualizar(int unId, int unPrecio)
     {
-        for (int i = 1; i <= this->ultimo; i++)
+        if (this->existencia[unId]->precio > unPrecio)
         {
-            if (this->objetos[i]->id == id)
-            {
-                if (this->objetos[i]->precio > precio)
-                {
-                    this->objetos[i]->precio = precio;
-                    this->flotar(i);
-                }
-                return;
-            }
+            this->existencia[unId]->precio = unPrecio;
+            this->flotar(this->existencia[unId]->celda);
         }
-        
-           
     }
 
     void flotar(int pos)
     {
-        if ((pos > 1) && (this->objetos[pos/2]->precio < this->objetos[pos]->precio))
+        while (pos > 1)
         {
-            this->swap(pos, pos/2);
-            this->hundir(pos/2);
+            int precioPadre = this->objetos[pos / 2]->precio;
+            int precioPos = this->objetos[pos]->precio;
+
+            if (precioPos < precioPadre)
+            {
+                this->swap(pos, pos / 2);
+                pos = pos / 2;
+            }
+            else if (precioPos == precioPadre && this->objetos[pos]->id > this->objetos[pos / 2]->id)
+            {
+                this->swap(pos, pos / 2);
+                pos = pos / 2;
+            }
+            else 
+            {
+                return;
+            }
         }
     }
 
-    void agregar (int id, int precio)
+    void agregar(int id, int precio)
     {
         this->ultimo = this->ultimo + 1;
-        this->objetos[this->ultimo] = new ObjetoEstanteria(id, precio);
+
+        this->objetos[this->ultimo] = new ObjetoEstanteria(id, precio, this->ultimo);
+        this->existencia[id] = this->objetos[this->ultimo];
+
         this->flotar(this->ultimo);
     }
 
     void pop()
     {
-        this->objetos[1] = this->objetos[this->ultimo];
+        this->swap(this->ultimo, 1);
+
+        int id = this->objetos[this->ultimo]->id;
+        delete this->objetos[this->ultimo];
+        this->objetos[this->ultimo] = NULL;
+        this->existencia[id] = NULL;
+
         this->ultimo--;
         this->hundir(1);
+    }
+    
+    int mejorObjeto(int nodo1, int nodo2)
+    {
+        if (this->objetos[nodo1]->precio < this->objetos[nodo2]->precio)
+        {
+            return nodo1;
+        } 
+        else if (this->objetos[nodo1]->precio > this->objetos[nodo2]->precio)
+        {
+            return nodo2;
+        }
+        else 
+        {
+            if (this->objetos[nodo1]->id > this->objetos[nodo2]->id)
+            {
+                return nodo1;
+            }
+            else if (this->objetos[nodo1]->id < this->objetos[nodo2]->id)
+            {
+                return nodo2;
+            }
+            else
+            {
+                return -1;
+            }
+        }
     }
 
     void hundir(int pos)
     {
-        while (pos*2 <= this->size)
-        {
-            int aux = 2*pos;
-            if (this->objetos[aux]->precio < this->objetos[aux + 1]->precio)
-            {
-                aux++;
+        int hijoIzq = 2 * pos;
+        int hijoDer = hijoIzq + 1;
+        if (hijoIzq <= this->ultimo) {
+            int mejor = hijoIzq;
+            if (hijoDer <= this->ultimo) {
+                mejor = this->mejorObjeto(hijoIzq, hijoDer);
             }
-            if (this->objetos[pos]->precio >= this->objetos[aux]->precio)
-            {
-                break;
+            if (mejor != -1 && this->mejorObjeto(pos, mejor) == mejor) {
+                this->swap(pos, mejor);
+                this->hundir(mejor);
             }
-            this->swap(aux, pos);
-            pos = aux;
         }
-        
     }
 
-    void swap(int i, int j) 
+    void swap(int i, int j)
     {
-        ObjetoEstanteria* temp = this->objetos[i];
+        ObjetoEstanteria *temp = this->objetos[i];
+
+        this->objetos[i]->celda = j;
         this->objetos[i] = this->objetos[j];
+
+        this->objetos[j]->celda = i;
         this->objetos[j] = temp;
     }
 
 public:
-
     ObjetosEstanteriaBH(int esperados)
     {
-        this->size = esperados + 1;
+        this->existencia = new ObjetoEstanteria *[esperados + 1];
 
-        this->existencia = new bool[this->size];
+        this->objetos = new ObjetoEstanteria *[esperados + 1];
 
-        this->objetos = new ObjetoEstanteria*[this->size];
-
-        for (int i = 0; i < this->size; i++)
+        for (int i = 0; i < esperados + 1; i++)
         {
-            this->existencia[i] = false;
+            this->existencia[i] = NULL;
             this->objetos[i] = NULL;
         }
 
@@ -111,7 +151,7 @@ public:
 
     void add(int id, int precio)
     {
-        if (this->existencia[id] == true)
+        if (this->existencia[id] != NULL)
         {
             this->actualizar(id, precio);
         }
@@ -119,18 +159,14 @@ public:
         {
             this->agregar(id, precio);
         }
-        
     }
 
     int masBarato()
     {
         int id = this->objetos[1]->id;
-
         this->pop();
-
         return id;
     }
-
 };
 
 int main()
@@ -138,7 +174,7 @@ int main()
     int n = 0;
     cin >> n;
 
-    ObjetosEstanteriaBH* objetos = new ObjetosEstanteriaBH(n);
+    ObjetosEstanteriaBH *objetos = new ObjetosEstanteriaBH(n);
 
     int id = -1;
     int precio = -1;
@@ -149,14 +185,13 @@ int main()
         cin >> precio;
         objetos->add(id, precio);
     }
-    
+
     cin >> n;
 
     for (int i = 0; i < n; i++)
     {
-        cout << objetos->masBarato();
+        cout << objetos->masBarato() << endl;
     }
-    
 
     return 0;
 }
