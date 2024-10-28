@@ -29,4 +29,7 @@ add_executable(ObligatorioEDA2
     ejercicio6.cpp
     ejercicio7.cpp
     ejercicio8.cpp
-    ejercicio9.cpp)
+    ejercicio9.cpp
+        models/Item.cpp
+        tads/Heap.h
+        tads/HeapSort.cpp)
