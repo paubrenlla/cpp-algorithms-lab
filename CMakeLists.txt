@@ -32,4 +32,4 @@ add_executable(ObligatorioEDA2
     ejercicio9.cpp
         models/Item.cpp
         tads/Heap.h
-        tads/HeapSort.cpp)
+        tads/MaxHeap.cpp)

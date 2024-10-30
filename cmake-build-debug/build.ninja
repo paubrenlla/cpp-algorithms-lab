@@ -182,6 +182,13 @@ build CMakeFiles/ObligatorioEDA2.dir/tads/HeapSort.cpp.o: CXX_COMPILER__Obligato
   OBJECT_DIR = CMakeFiles/ObligatorioEDA2.dir
   OBJECT_FILE_DIR = CMakeFiles/ObligatorioEDA2.dir/tads
 
+build CMakeFiles/ObligatorioEDA2.dir/tads/MaxHeap.cpp.o: CXX_COMPILER__ObligatorioEDA2_unscanned_Debug /Users/emi/git/ort/eda2/ObligatorioEDA2/tads/MaxHeap.cpp || cmake_object_order_depends_target_ObligatorioEDA2
+  DEP_FILE = CMakeFiles/ObligatorioEDA2.dir/tads/MaxHeap.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/emi/git/ort/eda2/ObligatorioEDA2/cmake-build-debug -I/Users/emi/git/ort/eda2/ObligatorioEDA2/funciones -I/Users/emi/git/ort/eda2/ObligatorioEDA2/models -I/Users/emi/git/ort/eda2/ObligatorioEDA2/tads
+  OBJECT_DIR = CMakeFiles/ObligatorioEDA2.dir
+  OBJECT_FILE_DIR = CMakeFiles/ObligatorioEDA2.dir/tads
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target ObligatorioEDA2
@@ -190,7 +197,7 @@ build CMakeFiles/ObligatorioEDA2.dir/tads/HeapSort.cpp.o: CXX_COMPILER__Obligato
 #############################################
 # Link the executable ObligatorioEDA2
 
-build ObligatorioEDA2: CXX_EXECUTABLE_LINKER__ObligatorioEDA2_Debug CMakeFiles/ObligatorioEDA2.dir/funciones/enteros.cpp.o CMakeFiles/ObligatorioEDA2.dir/funciones/io.cpp.o CMakeFiles/ObligatorioEDA2.dir/models/Book.cpp.o CMakeFiles/ObligatorioEDA2.dir/models/Command.cpp.o CMakeFiles/ObligatorioEDA2.dir/tads/AVL.cpp.o CMakeFiles/ObligatorioEDA2.dir/tads/HashTableOpenAddressing.cpp.o CMakeFiles/ObligatorioEDA2.dir/tads/ListImp.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio1.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio10.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio2.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio3.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio4.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio5.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio6.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio7.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio8.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio9.cpp.o CMakeFiles/ObligatorioEDA2.dir/models/Item.cpp.o CMakeFiles/ObligatorioEDA2.dir/tads/HeapSort.cpp.o
+build ObligatorioEDA2: CXX_EXECUTABLE_LINKER__ObligatorioEDA2_Debug CMakeFiles/ObligatorioEDA2.dir/funciones/enteros.cpp.o CMakeFiles/ObligatorioEDA2.dir/funciones/io.cpp.o CMakeFiles/ObligatorioEDA2.dir/models/Book.cpp.o CMakeFiles/ObligatorioEDA2.dir/models/Command.cpp.o CMakeFiles/ObligatorioEDA2.dir/tads/AVL.cpp.o CMakeFiles/ObligatorioEDA2.dir/tads/HashTableOpenAddressing.cpp.o CMakeFiles/ObligatorioEDA2.dir/tads/ListImp.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio1.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio10.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio2.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio3.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio4.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio5.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio6.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio7.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio8.cpp.o CMakeFiles/ObligatorioEDA2.dir/ejercicio9.cpp.o CMakeFiles/ObligatorioEDA2.dir/models/Item.cpp.o CMakeFiles/ObligatorioEDA2.dir/tads/HeapSort.cpp.o CMakeFiles/ObligatorioEDA2.dir/tads/MaxHeap.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/ObligatorioEDA2.dir
   POST_BUILD = :
