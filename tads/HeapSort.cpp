@@ -49,23 +49,23 @@ private:
         }
     }
 
-    void heapify(int size, int parentIndex)
+    void heapify(int currentIndex, int parentIndex)
     {
         int maximum = parentIndex;
         int rightIndex = this->getRightChild(parentIndex);
         int leftIndex = this->getLeftChild(parentIndex);
 
-        if (leftIndex < size && this->elements[leftIndex] > this->elements[maximum]) {
+        if (leftIndex < currentIndex && this->elements[leftIndex] > this->elements[maximum]) {
             maximum = leftIndex;
         }
 
-        if (rightIndex < size && this->elements[rightIndex] > this->elements[maximum]) {
+        if (rightIndex < currentIndex && this->elements[rightIndex] > this->elements[maximum]) {
             maximum = rightIndex;
         }
 
         if (maximum != parentIndex) {
             this->swap(parentIndex, maximum);
-            heapify(size, maximum);
+            heapify(currentIndex, maximum);
         }
     }
 

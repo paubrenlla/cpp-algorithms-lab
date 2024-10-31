@@ -16,7 +16,7 @@ public:
 
     bool operator>(const Item& other) const
     {
-        return this->price > other.price;
+        return this->price > other.price || (this->price == other.price && this->id < other.id);
     }
 };
 
