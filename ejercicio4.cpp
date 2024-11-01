@@ -35,6 +35,7 @@ private:
     PedidoHash** ordenesHash;
     int buckets;
     
+    //Funciones para hash//
     int hash(int i)
     {
         return (i * 31) % this->buckets;
@@ -79,21 +80,19 @@ private:
         this->borrarDeLista(id, this->ordenesHash[this->hash(id)]);
     }
 
+    //Funciones para bh//
     void flotar(int pos)
     {
         while (pos > 1)
         {
             int padre = pos / 2;
             
-            if (this->mejorPedido(pos, padre) == pos)
-            {
-                this->swap(padre, pos);
-            }
-            else
+            if (this->mejorPedido(pos, padre) == padre)
             {
                 return;
             }
 
+            this->swap(padre, pos);
             pos = pos / 2;
         }
     }
@@ -104,32 +103,25 @@ private:
         {
             return nodo1;
         } 
-        else if (this->ordenesBH[nodo1]->prioridad > this->ordenesBH[nodo2]->prioridad)
+        if (this->ordenesBH[nodo1]->prioridad > this->ordenesBH[nodo2]->prioridad)
         {
             return nodo2;
         }
-        else 
+        if (this->ordenesBH[nodo1]->paraLlevar && !this->ordenesBH[nodo2]->paraLlevar)
         {
-            if (this->ordenesBH[nodo1]->paraLlevar && !this->ordenesBH[nodo2]->paraLlevar)
-            {
-                return nodo1;
-            }
-            else if (this->ordenesBH[nodo2]->paraLlevar && !this->ordenesBH[nodo1]->paraLlevar)
-            {
-                return nodo2;
-            }
-            else
-            {
-                if (this->ordenesBH[nodo1]->id > this->ordenesBH[nodo2]->id)
-                {
-                    return nodo2;
-                }
-                else
-                {
-                    return nodo1;
-                }
-                
-            }
+            return nodo1;
+        }
+        if (this->ordenesBH[nodo2]->paraLlevar && !this->ordenesBH[nodo1]->paraLlevar)
+        {
+            return nodo2;
+        }
+        if (this->ordenesBH[nodo1]->id > this->ordenesBH[nodo2]->id)
+        {
+            return nodo2;
+        }
+        else
+        {
+            return nodo1;
         }
     }
 
@@ -137,16 +129,24 @@ private:
     {
         int hijoIzq = 2 * pos;
         int hijoDer = hijoIzq + 1;
-        if (hijoIzq <= this->ultimo) {
-            int mejor = hijoIzq;
-            if (hijoDer <= this->ultimo) {
-                mejor = this->mejorPedido(hijoIzq, hijoDer);
-            }
-            if (mejor != -1 && this->mejorPedido(pos, mejor) == mejor) {
-                this->swap(pos, mejor);
-                this->hundir(mejor);
+
+        if (hijoIzq <= this->ultimo && hijoDer <= this->ultimo)
+        {
+            int mejorHijo = this->mejorPedido(hijoDer, hijoIzq);
+            if (this->mejorPedido(pos, mejorHijo) == mejorHijo)
+            {
+                this->swap(mejorHijo, pos);
+                this->hundir(mejorHijo);
             }
         }
+        else if (hijoIzq <= this->ultimo)
+        {
+            if (this->mejorPedido(pos, hijoIzq) == hijoIzq)
+            {
+                this->swap(pos, hijoIzq);
+                this->hundir(hijoIzq);
+            }   
+        }   
     }
 
     void swap(int i, int j)
@@ -199,26 +199,35 @@ public:
         this->ordenesBH[this->ultimo] = new Pedido(unId, unaPrioridad, llevar, unTipo, this->ultimo);
         this->agregarHash(this->ordenesBH[this->ultimo]);
 
-        this->flotar(this->ultimo);        
+        this->flotar(this->ultimo);
+        this->hundir(this->findHash(unId)->posicion);
     }
 
     void cambiarLlevar(int id)
     {
         Pedido* aux = this->findHash(id);
-        aux->paraLlevar = true;
+        
+        aux->paraLlevar = !aux->paraLlevar;
 
         this->flotar(aux->posicion);
+        this->hundir(aux->posicion);
     }
 
     void entregar(int id)
     {
-        this->swap(this->ultimo, this->findHash(id)->posicion);
-        int idElim = this->deleteUltimo();
-
-        if (this->esVacio() == false && idElim != id && this->ultimo > 1)
+        int idUltimo = this->ordenesBH[this->ultimo]->id;
+        
+        if (idUltimo != id)
         {
-            this->flotar(this->findHash(id)->posicion);
-            this->hundir(this->findHash(id)->posicion);
+            this->swap(this->ultimo, this->findHash(id)->posicion);
+            this->deleteUltimo();
+
+            this->flotar(this->findHash(idUltimo)->posicion);
+            this->hundir(this->findHash(idUltimo)->posicion);
+        }
+        else
+        {
+            this->deleteUltimo();    
         }
     }
 
