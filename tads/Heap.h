@@ -1,7 +1,7 @@
 #ifndef MINHEAP_H
 #define MINHEAP_H
 
-class MinHeap
+class Heap
 {
 public:
     // pre:

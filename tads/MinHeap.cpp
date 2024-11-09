@@ -1,9 +1,9 @@
 #ifndef MINHEAP
 #define MINHEAP
-#include "MinHeap.h"
+#include "Heap.h"
 #include <cassert>
 
-class MinHeap
+class MinHeap : public Heap
 {
 private:
     int* arr;
