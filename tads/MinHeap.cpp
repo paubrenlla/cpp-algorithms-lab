@@ -1,23 +1,20 @@
-#ifndef MINHEAP
-#define MINHEAP
 #include "MinHeap.h"
-#include <cassert>
 
-class MinHeap : public Heap
+class MinHeapImp : public MinHeap
 {
 private:
     int* arr;
     int posTope;
     int capacidad;
 
-    void swap(int p1, int p2)
+    void swap(int p1, int p2) 
     {
         int aux = this->arr[p1];
         this->arr[p1] = this->arr[p2];
         this->arr[p2] = aux;
     }
 
-    void flotar(int pos)
+    void flotar(int pos) 
     {
         if (pos > 1)
         {
@@ -30,7 +27,7 @@ private:
         }
     }
 
-    void hundir(int pos)
+    void hundir(int pos) 
     {
         int posHijoIzq = pos * 2;
         int posHijoDer = pos * 2 + 1;
@@ -61,7 +58,7 @@ private:
     }
 
 public:
-    MinHeap(int unaCapacidad)
+    MinHeapImp(int unaCapacidad)
     {
 
         this->arr = new int[unaCapacidad + 1]();
@@ -69,36 +66,31 @@ public:
         this->capacidad = unaCapacidad;
     }
 
-    int tope()
+    int tope() override
     {
-        assert(!this->estaVacio());
         return this->arr[1];
     }
 
-    void eliminarTope()
+    void eliminarTope() override
     {
-        assert(!this->estaVacio());
         this->arr[1] = this->arr[posTope - 1];
         this->posTope--;
         this->hundir(1);
     }
 
-    void insertar(int el)
+    void insertar(int el) override
     {
-        assert(!this->estaLleno());
         this->arr[posTope++] = el;
         this->flotar(posTope - 1);
     }
 
-    bool estaLleno()
+    bool estaLleno() override
     {
         return this->posTope > this->capacidad;
     }
 
-    bool estaVacio()
+    bool estaVacio() override
     {
         return this->posTope == 1;
     }
 };
-
-#endif

@@ -1,12 +1,9 @@
 #ifndef MINHEAP_H
 #define MINHEAP_H
 
-class Heap
+class MinHeap
 {
 public:
-    // pre:
-    // post:
-    virtual void MinHeap(int unaCapacidad) = 0;
 
     // pre:
     // post: 

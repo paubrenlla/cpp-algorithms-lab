@@ -1,11 +1,28 @@
-#ifndef ITERATOR_H
-#define ITERATOR_H
+#ifndef ITERATOR
+#define ITERATOR
+
+#include <cassert>
+
 template <class T>
 class Iterator
 {
+private:
+    T* current;
+
 public:
-    virtual bool hasNext() = 0;
-    virtual T next() = 0;
+    Iterator(T* head) : current(head) {}
+
+    bool hasNext() 
+    {
+        return current != NULL;
+    }
+
+    T next() 
+    {
+        T* temp = current;
+        current = current->siguiente;
+        return *temp;
+    }
 };
 
 #endif

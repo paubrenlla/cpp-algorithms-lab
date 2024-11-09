@@ -8,11 +8,11 @@ template <class T>
 class IteratorImp : public Iterator<T>
 {
 private:
-    const T collection;
+    const T* collection;
     size_t index;
 
 public:
-    IteratorImp(const T col) 
+    IteratorImp(T* col) 
         : collection(col), index(0) {}
 
     bool hasNext() override
