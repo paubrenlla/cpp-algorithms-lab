@@ -1,29 +1,21 @@
-#ifndef ITERATOR_IMP
-#define ITERATOR_IMP
-
-#include "Iterator.h"
-#include <cassert>
-
 template <class T>
-class IteratorImp : public Iterator<T>
+class Iterator
 {
 private:
-    const T* collection;
-    size_t index;
+    T* current;
 
 public:
-    IteratorImp(T* col) 
-        : collection(col), index(0) {}
+    Iterator(T* head) : current(head) {}
 
-    bool hasNext() override
+    bool hasNext() 
     {
-        return index < collection.size();
+        return current != NULL;
     }
 
-    T next() override
+    T next() 
     {
-        return collection[index++]; 
+        T* temp = current;
+        current = current->siguiente;
+        return *temp;
     }
 };
-
-#endif

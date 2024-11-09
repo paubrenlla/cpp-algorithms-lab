@@ -1,6 +1,4 @@
-#include "MinHeap.h"
-
-class MinHeapImp : public MinHeap
+class MinHeapImp
 {
 private:
     int* arr;
@@ -66,30 +64,30 @@ public:
         this->capacidad = unaCapacidad;
     }
 
-    int tope() override
+    int tope()
     {
         return this->arr[1];
     }
 
-    void eliminarTope() override
+    void eliminarTope()
     {
         this->arr[1] = this->arr[posTope - 1];
         this->posTope--;
         this->hundir(1);
     }
 
-    void insertar(int el) override
+    void insertar(int el)
     {
         this->arr[posTope++] = el;
         this->flotar(posTope - 1);
     }
 
-    bool estaLleno() override
+    bool estaLleno()
     {
         return this->posTope > this->capacidad;
     }
 
-    bool estaVacio() override
+    bool estaVacio()
     {
         return this->posTope == 1;
     }
