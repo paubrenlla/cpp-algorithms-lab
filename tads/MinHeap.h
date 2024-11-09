@@ -5,6 +5,10 @@ class Heap
 {
 public:
     // pre:
+    // post:
+    virtual void MinHeap(int unaCapacidad) = 0;
+
+    // pre:
     // post: 
     virtual void eliminarTope() = 0;
 

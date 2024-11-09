@@ -1,6 +1,6 @@
 #ifndef MINHEAP
 #define MINHEAP
-#include "Heap.h"
+#include "MinHeap.h"
 #include <cassert>
 
 class MinHeap : public Heap
