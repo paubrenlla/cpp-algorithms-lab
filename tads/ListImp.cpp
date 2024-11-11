@@ -1,11 +1,10 @@
 #ifndef LIST_IMP
 #define LIST_IMP
 
-#include "List.h"
 #include <cassert>
 
 template <class T>
-class ListImp : public List<T>
+class ListImp
 {
 private:
     // define a inner class (Node) to be used by the double linked list
