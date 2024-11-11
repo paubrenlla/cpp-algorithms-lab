@@ -1,0 +1,5 @@
+Ciudad inicial: Melbourne
+34 - -1 - -1 - 34 - -1 - -1 - -1 - 34 - -1 - 34 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 34 - -1 - 34 - -1 - -1 - -1 - -1 - -1 - 34 - -1 - -1 - -1 - -1 - 34 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Asegurar_la_cuarta_llave 
+caminoMasCorto: 

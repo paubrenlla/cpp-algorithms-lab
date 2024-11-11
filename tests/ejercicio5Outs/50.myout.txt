@@ -1,0 +1,353 @@
+Ciudad inicial: Santiago_de_Chile
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_comunicaciones 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_comunicaciones - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_grupo 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_grupo - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Obtener_informacion_confidencial 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_informacion_confidencial - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_mensaje_enemigo 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_mensaje_enemigo - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Rastrear_satelite_pirata 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Rastrear_satelite_pirata - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Localizar_articulo_roto 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Localizar_articulo_roto - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recolectar_evidencias 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Recolectar_evidencias - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Cortar_comunicaciones_enemigas 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Cortar_comunicaciones_enemigas - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descubrir_identidad_de_infiltrados 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Descubrir_identidad_de_infiltrados - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_emisarios 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_emisarios - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_mensaje_enemigo 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_mensaje_enemigo - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Impedir_sabotaje_inminente 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Impedir_sabotaje_inminente - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descubrir_identidad_de_infiltrados 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Descubrir_identidad_de_infiltrados - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Acceder_red_inteligencia 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_red_inteligencia - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Obtener_informacion_confidencial 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_informacion_confidencial - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descubrir_identidad_de_infiltrados 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Descubrir_identidad_de_infiltrados - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_informante 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_informante - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Eliminar_trazabilidad_de_mision 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Eliminar_trazabilidad_de_mision - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Saboteo_interno 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Saboteo_interno - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_comunicaciones 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_comunicaciones - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrar_red_de_mandos 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrar_red_de_mandos - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Neutralizar_amenaza 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_amenaza - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Cortar_comunicaciones_enemigas 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Cortar_comunicaciones_enemigas - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descifrar_codigos 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Descifrar_codigos - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recolectar_evidencias 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Recolectar_evidencias - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Acceder_a_sistemas_seguridad 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_a_sistemas_seguridad - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Neutralizar_vehiculo 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_vehiculo - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Establecer_contacto_confidencial 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Establecer_contacto_confidencial - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_testigo_vip 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_testigo_vip - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Localizar_articulo_roto 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Localizar_articulo_roto - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_el_centro_neural 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_el_centro_neural - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Establecer_contacto_confidencial 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Establecer_contacto_confidencial - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrar_red_de_mandos 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrar_red_de_mandos - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Liberar_informacion 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Liberar_informacion - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_datos_sensibles 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_datos_sensibles - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Obtener_informacion_confidencial 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_informacion_confidencial - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Anular_defensas_enemigas 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Anular_defensas_enemigas - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Impedir_sabotaje_inminente 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Impedir_sabotaje_inminente - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Rastrear_satelite_pirata 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Rastrear_satelite_pirata - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_acceso_sistema_critico 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_acceso_sistema_critico - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_dispositivo 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_dispositivo - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Acceder_red_inteligencia 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_red_inteligencia - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Rastrear_satelite_pirata 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Rastrear_satelite_pirata - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrar_red_de_mandos 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrar_red_de_mandos - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Detener_ataque_cibernetico 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Detener_ataque_cibernetico - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Extraer_codigo_fuente 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Extraer_codigo_fuente - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_grupo 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_grupo - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_sede_FMI 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_sede_FMI - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_transmision_secreta 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_transmision_secreta - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Desactivar_la_Entidad 
+caminoMasCorto: 
+destinoMision - Rastrear_satelite_pirata
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_la_Entidad - Rastrear_satelite_pirata - Tiempo de viaje: 0
+-1 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - 39 - -1 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 39 - -1 - 39 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento

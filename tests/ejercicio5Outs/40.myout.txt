@@ -1,0 +1,283 @@
+Ciudad inicial: Tokio
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_sede_FMI 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_sede_FMI - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Desactivar_servidor 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_servidor - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_emisarios 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_emisarios - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_control_de_sistema 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_control_de_sistema - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Identificar_agente_hostil 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Identificar_agente_hostil - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Impedir_sabotaje_inminente 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Impedir_sabotaje_inminente - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Neutralizar_amenaza 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_amenaza - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrar_servidor_secreto 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrar_servidor_secreto - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_base_enemiga 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_base_enemiga - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recolectar_evidencias 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Recolectar_evidencias - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_transmision_secreta 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_transmision_secreta - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_red_financiera 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_red_financiera - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Rastrear_satelite_pirata 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Rastrear_satelite_pirata - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_datos_sensibles 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_datos_sensibles - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_red_financiera 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_red_financiera - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Neutralizar_vehiculo 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_vehiculo - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_comunicaciones 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_comunicaciones - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Rastrear_satelite_pirata 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Rastrear_satelite_pirata - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Detener_fuga_de_informacion 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Detener_fuga_de_informacion - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_acceso_sistema_critico 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_acceso_sistema_critico - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Saboteo_interno 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Saboteo_interno - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Anular_defensas_enemigas 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Anular_defensas_enemigas - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recolectar_evidencias 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Recolectar_evidencias - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descubrir_identidad_de_infiltrados 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Descubrir_identidad_de_infiltrados - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Anular_defensas_enemigas 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Anular_defensas_enemigas - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Desactivar_servidor 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_servidor - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Desactivar_servidor 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_servidor - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_red_financiera 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_red_financiera - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Asegurar_artefacto 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Asegurar_artefacto - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_base_enemiga 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_base_enemiga - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Obtener_coordenadas_clave 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_coordenadas_clave - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Detener_ataque_cibernetico 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Detener_ataque_cibernetico - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_comunicaciones 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_comunicaciones - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_comunicaciones 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_comunicaciones - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_informante 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_informante - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Obtener_coordenadas_clave 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_coordenadas_clave - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Impedir_sabotaje_inminente 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Impedir_sabotaje_inminente - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_grupo 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_grupo - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Rastrear_satelite_pirata 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Rastrear_satelite_pirata - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Desactivar_la_Entidad 
+caminoMasCorto: 
+destinoMision - Recuperar_control_de_sistema
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_la_Entidad - Recuperar_control_de_sistema - Tiempo de viaje: 0
+-1 - 4 - 4 - -1 - 4 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - 4 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento

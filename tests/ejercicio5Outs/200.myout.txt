@@ -1,0 +1,1403 @@
+Ciudad inicial: Lima
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Acceder_a_sistemas_seguridad 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_a_sistemas_seguridad - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Impedir_sabotaje_inminente 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Impedir_sabotaje_inminente - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Anular_defensas_enemigas 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Anular_defensas_enemigas - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descubrir_identidad_de_infiltrados 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Descubrir_identidad_de_infiltrados - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recolectar_evidencias 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recolectar_evidencias - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Localizar_articulo_roto 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Localizar_articulo_roto - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_en_el_consejo 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_en_el_consejo - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_mensaje_enemigo 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_mensaje_enemigo - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Neutralizar_amenaza 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_amenaza - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Transportar_material_clasificado 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Transportar_material_clasificado - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_comunicaciones 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_comunicaciones - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_grupo 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_grupo - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Detener_fuga_de_informacion 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Detener_fuga_de_informacion - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_grupo 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_grupo - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_el_centro_neural 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_el_centro_neural - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Detener_ataque_cibernetico 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Detener_ataque_cibernetico - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_datos_sensibles 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_datos_sensibles - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_base_enemiga 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_base_enemiga - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Identificar_agente_hostil 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Identificar_agente_hostil - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_control_de_sistema 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_control_de_sistema - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Desmantelar_red_cibernetica 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Desmantelar_red_cibernetica - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Detener_fuga_de_informacion 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Detener_fuga_de_informacion - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descubrir_identidad_de_infiltrados 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Descubrir_identidad_de_infiltrados - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Anular_defensas_enemigas 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Anular_defensas_enemigas - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Neutralizar_vehiculo 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_vehiculo - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Desactivar_servidor 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_servidor - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_control_de_sistema 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_control_de_sistema - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descifrar_codigos 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Descifrar_codigos - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_testigo_vip 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_testigo_vip - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recolectar_evidencias 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recolectar_evidencias - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Identificar_objetivo_secundario 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Identificar_objetivo_secundario - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Obtener_coordenadas_clave 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_coordenadas_clave - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_base_enemiga 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_base_enemiga - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Asegurar_artefacto 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Asegurar_artefacto - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descubrir_identidad_de_infiltrados 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Descubrir_identidad_de_infiltrados - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Establecer_punto_seguro 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Establecer_punto_seguro - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descubrir_identidad_de_infiltrados 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Descubrir_identidad_de_infiltrados - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Encriptar_datos_confidenciales 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Encriptar_datos_confidenciales - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Liberar_informacion 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Liberar_informacion - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Establecer_punto_seguro 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Establecer_punto_seguro - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Obtener_coordenadas_clave 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_coordenadas_clave - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Acceder_a_sistemas_seguridad 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_a_sistemas_seguridad - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrar_red_de_mandos 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrar_red_de_mandos - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_grupo 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_grupo - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Establecer_punto_seguro 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Establecer_punto_seguro - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Identificar_agente_hostil 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Identificar_agente_hostil - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_datos_sensibles 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_datos_sensibles - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Detener_ataque_cibernetico 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Detener_ataque_cibernetico - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_acceso_sistema_critico 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_acceso_sistema_critico - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Desactivar_artefacto 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_artefacto - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_mensaje_enemigo 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_mensaje_enemigo - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_llave 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_llave - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Liberar_informacion 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Liberar_informacion - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Identificar_objetivo_secundario 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Identificar_objetivo_secundario - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Neutralizar_vehiculo 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_vehiculo - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Anular_defensas_enemigas 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Anular_defensas_enemigas - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_el_centro_neural 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_el_centro_neural - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Obtener_informacion_confidencial 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_informacion_confidencial - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Saboteo_interno 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Saboteo_interno - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_mensaje_enemigo 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_mensaje_enemigo - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_acceso_sistema_critico 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_acceso_sistema_critico - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrar_red_de_mandos 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrar_red_de_mandos - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Extraer_codigo_fuente 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Extraer_codigo_fuente - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_comunicaciones 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_comunicaciones - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Acceder_red_inteligencia 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_red_inteligencia - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Eliminar_trazabilidad_de_mision 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Eliminar_trazabilidad_de_mision - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Identificar_agente_hostil 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Identificar_agente_hostil - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Asegurar_la_cuarta_llave 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Asegurar_la_cuarta_llave - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Acceder_red_inteligencia 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_red_inteligencia - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_llave 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_llave - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Neutralizar_vehiculo 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_vehiculo - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_acceso_sistema_critico 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_acceso_sistema_critico - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Transportar_material_clasificado 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Transportar_material_clasificado - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Anular_defensas_enemigas 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Anular_defensas_enemigas - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Encriptar_datos_confidenciales 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Encriptar_datos_confidenciales - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Sabotear_instalacion 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Sabotear_instalacion - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Acceder_red_inteligencia 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_red_inteligencia - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_el_centro_neural 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_el_centro_neural - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_datos_sensibles 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_datos_sensibles - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descubrir_identidad_de_infiltrados 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Descubrir_identidad_de_infiltrados - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Saboteo_interno 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Saboteo_interno - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_datos_sensibles 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_datos_sensibles - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Acceder_a_sistemas_seguridad 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_a_sistemas_seguridad - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_llave 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_llave - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Impedir_sabotaje_inminente 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Impedir_sabotaje_inminente - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_acceso_sistema_critico 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_acceso_sistema_critico - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Desmantelar_red_cibernetica 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Desmantelar_red_cibernetica - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Liberar_informacion 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Liberar_informacion - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Transportar_material_clasificado 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Transportar_material_clasificado - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Detener_fuga_de_informacion 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Detener_fuga_de_informacion - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recolectar_evidencias 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recolectar_evidencias - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Acceder_red_inteligencia 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_red_inteligencia - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrar_red_de_mandos 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrar_red_de_mandos - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Asegurar_la_cuarta_llave 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Asegurar_la_cuarta_llave - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Acceder_red_inteligencia 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_red_inteligencia - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Transportar_material_clasificado 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Transportar_material_clasificado - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descubrir_identidad_de_infiltrados 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Descubrir_identidad_de_infiltrados - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Neutralizar_amenaza 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_amenaza - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrar_red_de_mandos 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrar_red_de_mandos - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Neutralizar_amenaza 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_amenaza - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descifrar_codigos 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Descifrar_codigos - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Extraer_codigo_fuente 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Extraer_codigo_fuente - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_comunicaciones 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_comunicaciones - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Neutralizar_amenaza 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_amenaza - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_emisarios 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_emisarios - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrar_servidor_secreto 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrar_servidor_secreto - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_sede_FMI 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_sede_FMI - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Desactivar_servidor 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_servidor - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Impedir_sabotaje_inminente 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Impedir_sabotaje_inminente - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descubrir_identidad_de_infiltrados 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Descubrir_identidad_de_infiltrados - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Identificar_agente_hostil 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Identificar_agente_hostil - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Sabotear_instalacion 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Sabotear_instalacion - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Transportar_material_clasificado 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Transportar_material_clasificado - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_red_financiera 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_red_financiera - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_base_enemiga 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_base_enemiga - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_dispositivo 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_dispositivo - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_el_centro_neural 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_el_centro_neural - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Liberar_informacion 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Liberar_informacion - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_transmision_secreta 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_transmision_secreta - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Desactivar_artefacto 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_artefacto - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_testigo_vip 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_testigo_vip - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_acceso_sistema_critico 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_acceso_sistema_critico - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Detener_ataque_cibernetico 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Detener_ataque_cibernetico - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Desmantelar_red_cibernetica 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Desmantelar_red_cibernetica - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Asegurar_la_cuarta_llave 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Asegurar_la_cuarta_llave - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Establecer_punto_seguro 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Establecer_punto_seguro - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_acceso_sistema_critico 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_acceso_sistema_critico - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_mensaje_enemigo 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_mensaje_enemigo - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_datos_sensibles 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_datos_sensibles - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Saboteo_interno 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Saboteo_interno - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Identificar_agente_hostil 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Identificar_agente_hostil - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Detener_fuga_de_informacion 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Detener_fuga_de_informacion - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_red_financiera 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_red_financiera - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Cortar_comunicaciones_enemigas 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Cortar_comunicaciones_enemigas - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_llave 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_llave - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Localizar_articulo_roto 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Localizar_articulo_roto - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descubrir_identidad_de_infiltrados 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Descubrir_identidad_de_infiltrados - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_sede_FMI 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_sede_FMI - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Obtener_informacion_confidencial 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_informacion_confidencial - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_sede_FMI 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_sede_FMI - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descifrar_codigos 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Descifrar_codigos - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Liberar_informacion 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Liberar_informacion - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recolectar_evidencias 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recolectar_evidencias - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Acceder_red_inteligencia 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_red_inteligencia - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Impedir_sabotaje_inminente 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Impedir_sabotaje_inminente - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Liberar_informacion 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Liberar_informacion - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Desmantelar_red_cibernetica 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Desmantelar_red_cibernetica - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Establecer_contacto_confidencial 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Establecer_contacto_confidencial - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Cortar_comunicaciones_enemigas 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Cortar_comunicaciones_enemigas - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Acceder_a_sistemas_seguridad 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_a_sistemas_seguridad - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_control_de_sistema 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_control_de_sistema - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Impedir_sabotaje_inminente 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Impedir_sabotaje_inminente - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_grupo 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_grupo - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_mensaje_enemigo 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_mensaje_enemigo - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_testigo_vip 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_testigo_vip - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Desmantelar_red_cibernetica 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Desmantelar_red_cibernetica - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_testigo_vip 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_testigo_vip - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_datos_sensibles 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_datos_sensibles - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Eliminar_trazabilidad_de_mision 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Eliminar_trazabilidad_de_mision - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Encriptar_datos_confidenciales 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Encriptar_datos_confidenciales - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_comunicaciones 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_comunicaciones - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_acceso_sistema_critico 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_acceso_sistema_critico - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Acceder_a_sistemas_seguridad 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_a_sistemas_seguridad - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Liberar_informacion 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Liberar_informacion - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_acceso_sistema_critico 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_acceso_sistema_critico - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_dispositivo 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_dispositivo - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_sede_FMI 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_sede_FMI - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_transmision_secreta 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_transmision_secreta - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Desmantelar_red_cibernetica 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Desmantelar_red_cibernetica - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrar_red_de_mandos 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrar_red_de_mandos - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Neutralizar_vehiculo 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_vehiculo - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Obtener_informacion_confidencial 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_informacion_confidencial - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Neutralizar_vehiculo 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_vehiculo - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descifrar_codigos 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Descifrar_codigos - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Eliminar_trazabilidad_de_mision 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Eliminar_trazabilidad_de_mision - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Sabotear_instalacion 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Sabotear_instalacion - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_informante 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_informante - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_acceso_sistema_critico 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_acceso_sistema_critico - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Asegurar_la_cuarta_llave 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Asegurar_la_cuarta_llave - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Saboteo_interno 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Saboteo_interno - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descifrar_codigos 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Descifrar_codigos - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Localizar_articulo_roto 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Localizar_articulo_roto - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Detener_ataque_cibernetico 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Detener_ataque_cibernetico - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Establecer_punto_seguro 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Establecer_punto_seguro - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Establecer_contacto_confidencial 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Establecer_contacto_confidencial - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Desactivar_artefacto 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_artefacto - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Detener_ataque_cibernetico 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Detener_ataque_cibernetico - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Eliminar_trazabilidad_de_mision 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Eliminar_trazabilidad_de_mision - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Encriptar_datos_confidenciales 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Encriptar_datos_confidenciales - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_emisarios 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_emisarios - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Obtener_informacion_confidencial 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_informacion_confidencial - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Identificar_agente_hostil 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Identificar_agente_hostil - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Descubrir_identidad_de_infiltrados 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Descubrir_identidad_de_infiltrados - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Localizar_articulo_roto 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Localizar_articulo_roto - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Obtener_coordenadas_clave 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_coordenadas_clave - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Encriptar_datos_confidenciales 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Encriptar_datos_confidenciales - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Sabotear_instalacion 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Sabotear_instalacion - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Sabotear_instalacion 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Sabotear_instalacion - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_sede_FMI 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_sede_FMI - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Desactivar_la_Entidad 
+caminoMasCorto: 
+destinoMision - Obtener_coordenadas_clave
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_la_Entidad - Obtener_coordenadas_clave - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 41 - -1 - -1 - -1 - 41 - -1 - 41 - 41 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento

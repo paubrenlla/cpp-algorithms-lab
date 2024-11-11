@@ -1,0 +1,703 @@
+Ciudad inicial: Copenhague
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Desactivar_servidor 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_servidor - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Recuperar_acceso_sistema_critico 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_acceso_sistema_critico - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Recuperar_control_de_sistema 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_control_de_sistema - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Desmantelar_red_cibernetica 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Desmantelar_red_cibernetica - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Proteger_el_centro_neural 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_el_centro_neural - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Desactivar_servidor 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_servidor - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Extraer_codigo_fuente 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Extraer_codigo_fuente - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Infiltrarse_grupo 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_grupo - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Acceder_a_sistemas_seguridad 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_a_sistemas_seguridad - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Liberar_informacion 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Liberar_informacion - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Infiltrarse_red_financiera 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_red_financiera - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Descubrir_identidad_de_infiltrados 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Descubrir_identidad_de_infiltrados - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Acceder_a_sistemas_seguridad 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_a_sistemas_seguridad - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Infiltrar_red_de_mandos 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrar_red_de_mandos - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Infiltrarse_base_enemiga 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_base_enemiga - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Recuperar_dispositivo 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_dispositivo - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Infiltrarse_red_financiera 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_red_financiera - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Proteger_informante 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_informante - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Extraer_codigo_fuente 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Extraer_codigo_fuente - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Recuperar_datos_sensibles 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_datos_sensibles - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Impedir_sabotaje_inminente 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Impedir_sabotaje_inminente - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Identificar_agente_hostil 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Identificar_agente_hostil - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Desmantelar_red_cibernetica 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Desmantelar_red_cibernetica - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Infiltrarse_en_el_consejo 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_en_el_consejo - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Localizar_articulo_roto 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Localizar_articulo_roto - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Desactivar_servidor 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_servidor - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Obtener_informacion_confidencial 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_informacion_confidencial - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Proteger_emisarios 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_emisarios - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Extraer_codigo_fuente 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Extraer_codigo_fuente - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Infiltrar_servidor_secreto 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrar_servidor_secreto - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Acceder_a_sistemas_seguridad 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_a_sistemas_seguridad - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Identificar_agente_hostil 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Identificar_agente_hostil - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Descubrir_identidad_de_infiltrados 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Descubrir_identidad_de_infiltrados - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Infiltrar_servidor_secreto 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrar_servidor_secreto - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Asegurar_la_cuarta_llave 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Asegurar_la_cuarta_llave - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Neutralizar_vehiculo 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_vehiculo - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Recuperar_acceso_sistema_critico 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_acceso_sistema_critico - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Rastrear_satelite_pirata 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Rastrear_satelite_pirata - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Proteger_sede_FMI 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_sede_FMI - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Detener_fuga_de_informacion 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Detener_fuga_de_informacion - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Establecer_punto_seguro 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Establecer_punto_seguro - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Sabotear_instalacion 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Sabotear_instalacion - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Interceptar_mensaje_enemigo 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_mensaje_enemigo - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Desactivar_artefacto 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_artefacto - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Establecer_contacto_confidencial 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Establecer_contacto_confidencial - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Detener_fuga_de_informacion 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Detener_fuga_de_informacion - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Asegurar_la_cuarta_llave 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Asegurar_la_cuarta_llave - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Identificar_objetivo_secundario 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Identificar_objetivo_secundario - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Infiltrarse_grupo 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_grupo - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Infiltrarse_grupo 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_grupo - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Desmantelar_red_cibernetica 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Desmantelar_red_cibernetica - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Neutralizar_amenaza 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_amenaza - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Obtener_coordenadas_clave 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_coordenadas_clave - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Eliminar_trazabilidad_de_mision 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Eliminar_trazabilidad_de_mision - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Encriptar_datos_confidenciales 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Encriptar_datos_confidenciales - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Recuperar_dispositivo 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_dispositivo - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Proteger_sede_FMI 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_sede_FMI - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Establecer_punto_seguro 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Establecer_punto_seguro - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Localizar_articulo_roto 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Localizar_articulo_roto - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Acceder_red_inteligencia 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_red_inteligencia - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Acceder_red_inteligencia 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_red_inteligencia - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Sabotear_instalacion 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Sabotear_instalacion - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Detener_ataque_cibernetico 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Detener_ataque_cibernetico - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Recuperar_datos_sensibles 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_datos_sensibles - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Infiltrarse_red_financiera 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_red_financiera - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Saboteo_interno 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Saboteo_interno - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Recuperar_datos_sensibles 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_datos_sensibles - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Recolectar_evidencias 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Recolectar_evidencias - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Desmantelar_red_cibernetica 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Desmantelar_red_cibernetica - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Obtener_informacion_confidencial 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_informacion_confidencial - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Cortar_comunicaciones_enemigas 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Cortar_comunicaciones_enemigas - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Interceptar_mensaje_enemigo 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_mensaje_enemigo - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Proteger_el_centro_neural 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_el_centro_neural - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Infiltrarse_grupo 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_grupo - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Establecer_punto_seguro 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Establecer_punto_seguro - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Desactivar_artefacto 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_artefacto - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Localizar_articulo_roto 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Localizar_articulo_roto - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Asegurar_la_cuarta_llave 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Asegurar_la_cuarta_llave - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Impedir_sabotaje_inminente 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Impedir_sabotaje_inminente - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Recuperar_datos_sensibles 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_datos_sensibles - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Infiltrar_servidor_secreto 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrar_servidor_secreto - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Infiltrarse_red_financiera 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_red_financiera - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Descubrir_identidad_de_infiltrados 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Descubrir_identidad_de_infiltrados - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Identificar_objetivo_secundario 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Identificar_objetivo_secundario - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Neutralizar_vehiculo 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_vehiculo - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Desactivar_servidor 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_servidor - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Saboteo_interno 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Saboteo_interno - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Obtener_informacion_confidencial 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_informacion_confidencial - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Detener_ataque_cibernetico 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Detener_ataque_cibernetico - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Anular_defensas_enemigas 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Anular_defensas_enemigas - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Proteger_testigo_vip 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_testigo_vip - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Infiltrarse_red_financiera 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_red_financiera - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Neutralizar_amenaza 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_amenaza - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Interceptar_transmision_secreta 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_transmision_secreta - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Infiltrarse_base_enemiga 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_base_enemiga - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Proteger_emisarios 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_emisarios - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Asegurar_la_cuarta_llave 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Asegurar_la_cuarta_llave - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Obtener_informacion_confidencial 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_informacion_confidencial - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Saboteo_interno 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Saboteo_interno - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento
+setCompleted Mision: Desactivar_la_Entidad 
+caminoMasCorto: 
+destinoMision - Proteger_emisarios
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_la_Entidad - Proteger_emisarios - Tiempo de viaje: 0
+-1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - 28 - -1 - -1 - -1 - 28 - -1 - 28 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 28 - 
+procesamiento

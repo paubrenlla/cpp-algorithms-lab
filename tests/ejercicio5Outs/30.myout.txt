@@ -1,0 +1,213 @@
+Ciudad inicial: Hong_Kong
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Rastrear_satelite_pirata 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Rastrear_satelite_pirata - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Identificar_objetivo_secundario 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Identificar_objetivo_secundario - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Detener_ataque_cibernetico 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Detener_ataque_cibernetico - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_el_centro_neural 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_el_centro_neural - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Proteger_testigo_vip 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Proteger_testigo_vip - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Interceptar_mensaje_enemigo 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Interceptar_mensaje_enemigo - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Neutralizar_amenaza 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_amenaza - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_dispositivo 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_dispositivo - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Asegurar_artefacto 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Asegurar_artefacto - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Sabotear_instalacion 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Sabotear_instalacion - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_llave 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_llave - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Acceder_a_sistemas_seguridad 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_a_sistemas_seguridad - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Extraer_codigo_fuente 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Extraer_codigo_fuente - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Desmantelar_red_cibernetica 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Desmantelar_red_cibernetica - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Anular_defensas_enemigas 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Anular_defensas_enemigas - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Neutralizar_amenaza 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_amenaza - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Desactivar_artefacto 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_artefacto - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_dispositivo 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_dispositivo - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Acceder_red_inteligencia 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Acceder_red_inteligencia - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrar_red_de_mandos 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrar_red_de_mandos - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Extraer_codigo_fuente 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Extraer_codigo_fuente - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Identificar_objetivo_secundario 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Identificar_objetivo_secundario - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Recuperar_dispositivo 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Recuperar_dispositivo - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrar_servidor_secreto 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrar_servidor_secreto - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Infiltrarse_base_enemiga 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Infiltrarse_base_enemiga - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Obtener_coordenadas_clave 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_coordenadas_clave - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Neutralizar_amenaza 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Neutralizar_amenaza - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Obtener_informacion_confidencial 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Obtener_informacion_confidencial - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Descifrar_codigos 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Descifrar_codigos - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento
+setCompleted Mision: Desactivar_la_Entidad 
+caminoMasCorto: 
+destinoMision - Neutralizar_amenaza
+tiempo  - Tiempo de viaje: 0
+Mision: Desactivar_la_Entidad - Neutralizar_amenaza - Tiempo de viaje: 0
+-1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
+procesamiento

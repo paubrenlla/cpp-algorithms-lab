@@ -1,0 +1,5 @@
+Ciudad inicial: Vancouver
+-1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 36 - -1 - -1 - -1 - -1 - -1 - 36 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 36 - -1 - -1 - 36 - -1 - -1 - 36 - -1 - 36 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 
+procesamiento
+setCompleted Mision: Establecer_punto_seguro 
+caminoMasCorto: 
