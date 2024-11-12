@@ -137,21 +137,10 @@ public:
         {
             this->ciudades[origen] = new Ciudad(origen);
         }
-        if (this->ciudades[destino] == NULL)
-        {
-            this->ciudades[destino] = new Ciudad(destino);
-        }
 
-        Conexion* aux = NULL;
-        //Origen - Destino
-        aux = this->ciudades[origen]->conexiones;
+        Conexion* aux = this->ciudades[origen]->conexiones;
         this->ciudades[origen]->conexiones = new Conexion(destino, costo, aux);
         this->ciudades[origen]->cantConexiones++;
-
-        //Destino - Origen
-        aux = this->ciudades[destino]->conexiones;
-        this->ciudades[destino]->conexiones = new Conexion(origen, costo, aux);
-        this->ciudades[destino]->cantConexiones++;
     }
 
     void setOrigen(int idCiudad)
@@ -170,7 +159,11 @@ public:
 
         for (int i = 1; i <= this->misionesTotales; i++)
         {
-            if (this->misiones[i] != NULL && this->misiones[i]->previasPorCompletar == 0 && this->misiones[i]->completada == false && this->misiones[i]->id < nroMision)
+            if (this->misiones[i] != NULL && 
+                this->misiones[i]->idCiudad == ciudad &&
+                this->misiones[i]->previasPorCompletar == 0 && 
+                this->misiones[i]->completada == false && 
+                this->misiones[i]->id < nroMision)
             {
                 nroMision = i;
             }
@@ -187,11 +180,11 @@ public:
     {
         int** dijkstraResutls = this->dijkstra(ciudadActual);
         int menorCosto = INT_MAX;
-        int mejorCiudad = 0;
+        int mejorCiudad = -1;
         int hacerMision = this->misionesTotales + 1;
         for (int i = 1; i <= this->cantCiudades; i++)
         {
-            if (this->ciudades[i] != NULL)
+            if (this->ciudades[i] != NULL && i != this->ciudadActual)
             {
                 int mejorMision = this->mejorMisionDeCiudad(i);
 
@@ -206,49 +199,50 @@ public:
                     else if (dijkstraResutls[i][0] == menorCosto && mejorMision < hacerMision)
                     {
                         mejorCiudad = i;
-                        menorCosto = dijkstraResutls[i][0];
                         hacerMision = mejorMision;
                     }
                 }
             }
         }
 
-        for (int i = 1; i <= this->cantCiudades; i++)
+        for (int i = 1; i < this->cantCiudades; i++)
         {
-            cout << dijkstraResutls[i][1] << " - ";
+            cout << dijkstraResutls[i][0] << " " << dijkstraResutls[i][1] << endl;
         }
-        cout << endl;
         
 
-        cout << "procesamiento" << endl;
+        //cout << "comienzo" << endl;
         string setCompleted = this->marcarCompletada(hacerMision);
-        cout << "setCompleted " << setCompleted << endl;
+        //cout << setCompleted << endl;
         string caminoMasCorto = this->getCaminoMasCorto(dijkstraResutls, mejorCiudad);
-        cout << "caminoMasCorto: " << caminoMasCorto << endl;
-        string destinoMision = "- " + this->misiones[this->ciudadActual]->nombre;
-        cout << "destinoMision " << destinoMision<< endl;
+        //cout << "pasa c mas corto" << endl;
+        string destinoMision = "- " + this->ciudades[this->ciudadActual]->nombre;
+        //cout << "pasa destino mision" << endl;
         string tiempo = " - Tiempo de viaje: " + std::to_string(dijkstraResutls[mejorCiudad][0]);
-        cout << "tiempo " << tiempo << endl;
+        //cout << "pasa tiempo" << endl;
 
-        return setCompleted + caminoMasCorto + destinoMision + tiempo;
+        return caminoMasCorto + setCompleted + destinoMision + tiempo;
     }
 
     string getCaminoMasCorto(int** dijkstraResults, int ciudad)
     {
         this->tiempoViaje += dijkstraResults[ciudad][0];
-        string retorno;
-
-        int aux = ciudad;
-        while (aux != this->ciudadActual)
-        {
-            cout << this->misiones[aux]->nombre << endl;
-            retorno = this->misiones[aux]->nombre + " -> " + retorno;
-            aux = dijkstraResults[aux][1];
-        }
-
+        string retorno = this->caminoRec(ciudad, dijkstraResults);
         this->ciudadActual = ciudad;
 
         return retorno;
+    }
+
+    string caminoRec(int v, int** dijkstraResults)
+    {
+        if (dijkstraResults[v][1] == -1)
+        {
+            return this->ciudades[v]->nombre + " -> ";
+        }
+        else
+        {
+            return caminoRec(dijkstraResults[v][1], dijkstraResults) + this->ciudades[v]->nombre + " -> ";
+        }
     }
 
     string marcarCompletada(int mision)
@@ -258,10 +252,11 @@ public:
         ListImp<int>* aux = this->misiones[mision]->idPosteriores;
         for(int i = 0; i < aux->getSize(); i++)
         {
-            this->misiones[aux->get(i)]->previasPorCompletar--; 
+            this->misiones[aux->get(i)]->previasPorCompletar--;
         }
-
-        return "Mision: " + this->misiones[mision]->nombre + " ";
+        this->misionesRestantes--;
+        string ret =  "Mision: " + this->misiones[mision]->nombre + " ";
+        return ret;
     }
 
     string getNombreCiudadActual()
@@ -282,6 +277,7 @@ public:
         for (int v = 1; v <= this->cantCiudades; v++)
         {
             visitado[v] = false;
+
             costoVengo[v] = new int[2];
             costoVengo[v][0] = INT_MAX;
             costoVengo[v][1] = -1;
@@ -300,12 +296,11 @@ public:
             {
                 visitado[top] = true;
 
-                Iterator<Conexion>* it = new Iterator<Conexion>(this->ciudades[origen]->conexiones);
-                while (it->hasNext())
+                Conexion* it = this->ciudades[top]->conexiones;
+                while (it != NULL)
                 {
-                    Conexion c = it->next();
-                    int v = c.idDestino;
-                    int peso = c.costo;
+                    int v = it->idDestino;
+                    int peso = it->costo;
                     
                     if (!visitado[v] && costoVengo[v][0] > costoVengo[top][0] + peso)
                     {
@@ -313,8 +308,8 @@ public:
                         costoVengo[v][1] = top;
                         cola->insertar(v);
                     }
+                    it = it->siguiente;
                 }
-                delete it;
             }
         }
 
@@ -367,6 +362,7 @@ int main()
 
     int cantConexiones;
     cin >> cantConexiones;
+    bool matriz[cantCiudades + 1][cantCiudades + 1] = {};
 
     for (int i = 0; i < cantConexiones; i++)
     {
@@ -376,7 +372,14 @@ int main()
 
         cin >> cOrigen >> cDestino >> costo;
 
-        misiones->addConexion(cOrigen, cDestino, costo);
+        if (!matriz[cOrigen][cDestino])
+        {
+            misiones->addConexion(cOrigen, cDestino, costo);
+        } 
+        if (!matriz[cDestino][cOrigen])
+        {
+            misiones->addConexion(cDestino, cOrigen, costo);
+        }
     }
     
     cout << "Ciudad inicial: " << misiones->getNombreCiudadActual() << endl;

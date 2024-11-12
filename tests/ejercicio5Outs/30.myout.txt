@@ -1,213 +1,1503 @@
 Ciudad inicial: Hong_Kong
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Rastrear_satelite_pirata 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Rastrear_satelite_pirata - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Identificar_objetivo_secundario 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Identificar_objetivo_secundario - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Detener_ataque_cibernetico 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Detener_ataque_cibernetico - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Proteger_el_centro_neural 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Proteger_el_centro_neural - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Proteger_testigo_vip 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Proteger_testigo_vip - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Interceptar_mensaje_enemigo 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Interceptar_mensaje_enemigo - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Neutralizar_amenaza 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Neutralizar_amenaza - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Recuperar_dispositivo 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Recuperar_dispositivo - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Asegurar_artefacto 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Asegurar_artefacto - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Sabotear_instalacion 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Sabotear_instalacion - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Recuperar_llave 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Recuperar_llave - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Acceder_a_sistemas_seguridad 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Acceder_a_sistemas_seguridad - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Extraer_codigo_fuente 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Extraer_codigo_fuente - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Desmantelar_red_cibernetica 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Desmantelar_red_cibernetica - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Anular_defensas_enemigas 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Anular_defensas_enemigas - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Neutralizar_amenaza 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Neutralizar_amenaza - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Desactivar_artefacto 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Desactivar_artefacto - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Recuperar_dispositivo 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Recuperar_dispositivo - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Acceder_red_inteligencia 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Acceder_red_inteligencia - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Infiltrar_red_de_mandos 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Infiltrar_red_de_mandos - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Extraer_codigo_fuente 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Extraer_codigo_fuente - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Identificar_objetivo_secundario 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Identificar_objetivo_secundario - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Recuperar_dispositivo 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Recuperar_dispositivo - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Infiltrar_servidor_secreto 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Infiltrar_servidor_secreto - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Infiltrarse_base_enemiga 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Infiltrarse_base_enemiga - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Obtener_coordenadas_clave 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Obtener_coordenadas_clave - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Neutralizar_amenaza 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Neutralizar_amenaza - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Obtener_informacion_confidencial 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Obtener_informacion_confidencial - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Descifrar_codigos 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Descifrar_codigos - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
-setCompleted Mision: Desactivar_la_Entidad 
-caminoMasCorto: 
-destinoMision - Neutralizar_amenaza
-tiempo  - Tiempo de viaje: 0
-Mision: Desactivar_la_Entidad - Neutralizar_amenaza - Tiempo de viaje: 0
--1 - -1 - -1 - -1 - -1 - 7 - -1 - 7 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - -1 - 7 - -1 - -1 - -1 - -1 - 7 - -1 - 
-procesamiento
+103 2
+56 5
+58 2
+107 5
+46 6
+16 7
+0 -1
+12 7
+48 8
+64 9
+91 8
+190 11
+199 12
+105 6
+148 14
+156 15
+183 16
+81 9
+128 18
+119 5
+66 9
+97 21
+61 3
+110 11
+108 1
+143 24
+151 4
+116 4
+17 8
+114 29
+102 23
+51 29
+94 32
+116 32
+21 29
+70 2
+70 32
+25 35
+44 38
+60 32
+69 32
+109 41
+70 40
+25 29
+75 44
+100 29
+62 32
+36 6
+54 35
+Hong_Kong -> Abu_Dhabi -> Moscu -> Tokio -> Copenhague -> Mision: Rastrear_satelite_pirata - Copenhague - Tiempo de viaje: 116
+141 2
+94 3
+92 4
+9 28
+70 4
+100 5
+116 6
+128 7
+164 8
+126 5
+150 5
+249 11
+258 12
+189 6
+232 14
+240 15
+267 16
+197 9
+244 18
+100 4
+21 4
+52 21
+95 3
+169 11
+87 22
+155 25
+53 4
+0 -1
+19 28
+40 28
+58 30
+53 29
+81 31
+118 32
+23 29
+78 35
+72 32
+27 35
+5 28
+62 32
+71 32
+111 41
+72 40
+27 29
+55 22
+102 29
+64 32
+6 28
+56 35
+Copenhague -> Tokio -> Barcelona -> Madrid -> Johannesburgo -> Mision: Identificar_objetivo_secundario - Johannesburgo - Tiempo de viaje: 55
+169 2
+122 5
+124 2
+173 5
+112 6
+82 45
+98 6
+110 7
+146 8
+162 9
+189 8
+45 45
+54 12
+65 13
+108 14
+116 15
+143 16
+179 9
+226 18
+118 14
+138 20
+3 45
+54 22
+154 23
+13 45
+26 45
+87 26
+62 22
+73 23
+102 28
+79 45
+65 25
+102 31
+130 32
+77 29
+132 35
+84 32
+81 35
+67 28
+74 32
+83 32
+123 41
+84 40
+50 45
+0 -1
+80 45
+32 25
+60 47
+100 37
+Johannesburgo -> Abu_Dhabi -> Hong_Kong -> Los_Angeles -> Punta_del_Este -> Mision: Detener_ataque_cibernetico - Punta_del_Este - Tiempo de viaje: 189
+137 2
+90 5
+92 2
+141 5
+80 11
+110 5
+126 6
+79 11
+115 8
+70 11
+0 -1
+99 11
+108 12
+119 13
+162 14
+170 15
+197 16
+148 9
+195 18
+153 5
+133 9
+164 21
+95 3
+19 11
+18 11
+52 24
+113 26
+150 4
+84 8
+181 29
+136 23
+70 25
+103 24
+48 11
+43 11
+98 35
+89 32
+47 35
+66 38
+79 32
+88 32
+101 24
+89 40
+92 29
+31 25
+98 24
+37 25
+65 47
+76 35
+Punta_del_Este -> Salto -> Rivera -> Canelones -> Colonia -> Durazno -> Mision: Proteger_el_centro_neural - Durazno - Tiempo de viaje: 170
+318 2
+271 5
+273 2
+322 5
+261 11
+291 5
+307 6
+260 11
+296 8
+251 11
+181 12
+82 16
+91 12
+102 13
+8 16
+0 -1
+27 16
+92 17
+139 18
+155 14
+57 17
+88 21
+139 22
+44 16
+58 24
+77 24
+61 15
+115 27
+131 26
+88 16
+106 30
+110 25
+128 24
+175 32
+126 18
+45 17
+46 36
+57 36
+76 38
+81 27
+110 27
+85 16
+91 40
+66 27
+71 25
+123 24
+77 25
+83 40
+4 16
+Durazno -> Paysandu -> Vancouver -> Bogota -> Mision: Proteger_testigo_vip - Bogota - Tiempo de viaje: 57
+181 2
+134 5
+136 2
+185 5
+124 6
+94 7
+78 8
+66 38
+102 8
+118 9
+145 8
+244 11
+253 12
+183 6
+226 14
+234 15
+261 16
+135 9
+182 18
+197 5
+120 9
+151 21
+139 3
+164 11
+163 11
+95 38
+156 26
+194 4
+71 8
+168 29
+180 23
+105 29
+55 38
+126 33
+4 38
+12 38
+13 36
+0 -1
+19 38
+107 39
+65 38
+105 41
+117 40
+79 29
+121 26
+154 29
+116 32
+109 40
+29 37
+Bogota -> Los_Angeles -> Paris -> Barcelona -> Madrid -> Mision: Interceptar_mensaje_enemigo - Madrid - Tiempo de viaje: 151
+175 2
+128 3
+126 4
+43 21
+104 4
+134 5
+150 6
+162 7
+49 21
+65 9
+135 10
+234 11
+243 12
+223 6
+266 14
+274 15
+61 21
+82 9
+129 18
+51 21
+31 22
+0 -1
+51 22
+105 17
+35 22
+103 25
+87 4
+52 4
+70 23
+92 28
+92 23
+77 9
+115 31
+142 32
+74 29
+79 17
+80 36
+78 35
+57 28
+86 32
+95 32
+135 41
+96 40
+78 29
+3 22
+83 45
+54 25
+58 28
+96 37
+Madrid -> Barcelona -> Paris -> El_Cairo -> Lima -> Caracas -> Mision: Neutralizar_amenaza - Caracas - Tiempo de viaje: 135
+256 2
+209 5
+211 2
+260 5
+199 6
+169 14
+185 6
+197 7
+233 8
+249 9
+276 8
+375 11
+91 14
+80 42
+123 14
+85 42
+112 16
+95 42
+142 18
+133 14
+142 17
+173 21
+214 3
+82 42
+96 24
+115 24
+176 15
+230 27
+169 26
+173 16
+191 30
+148 25
+166 24
+213 32
+129 18
+130 17
+131 36
+133 35
+152 38
+157 32
+40 42
+0 -1
+86 42
+70 42
+109 25
+161 24
+115 25
+143 47
+89 16
+Caracas -> Canelones -> Abu_Dhabi -> Moscu -> Nueva_York -> Montevideo -> Mision: Recuperar_dispositivo - Montevideo - Tiempo de viaje: 256
+0 -1
+47 1
+49 2
+132 3
+57 2
+87 5
+103 6
+115 7
+151 8
+113 5
+137 5
+236 11
+245 12
+176 6
+219 14
+227 15
+254 16
+184 9
+231 18
+130 5
+144 4
+175 21
+52 3
+152 23
+5 1
+73 25
+134 26
+141 4
+71 23
+58 1
+76 30
+57 25
+99 31
+110 2
+75 29
+61 2
+62 36
+73 36
+92 38
+66 32
+75 32
+115 41
+76 40
+61 1
+18 25
+98 45
+24 25
+52 47
+78 37
+Montevideo -> Nueva_York -> Moscu -> Abu_Dhabi -> Canelones -> Colonia -> Durazno -> Mision: Asegurar_artefacto - Durazno - Tiempo de viaje: 227
+318 2
+271 5
+273 2
+322 5
+261 11
+291 5
+307 6
+260 11
+296 8
+251 11
+181 12
+82 16
+91 12
+102 13
+8 16
+0 -1
+27 16
+92 17
+139 18
+155 14
+57 17
+88 21
+139 22
+44 16
+58 24
+77 24
+61 15
+115 27
+131 26
+88 16
+106 30
+110 25
+128 24
+175 32
+126 18
+45 17
+46 36
+57 36
+76 38
+81 27
+110 27
+85 16
+91 40
+66 27
+71 25
+123 24
+77 25
+83 40
+4 16
+Durazno -> Salto -> Mision: Sabotear_instalacion - Salto - Tiempo de viaje: 82
+236 2
+189 5
+191 2
+240 5
+179 11
+209 5
+225 6
+178 11
+214 8
+169 11
+99 12
+0 -1
+9 12
+20 13
+63 14
+71 15
+98 16
+163 17
+210 18
+73 14
+93 20
+124 21
+175 22
+115 16
+117 11
+148 24
+65 12
+119 27
+138 28
+159 16
+137 20
+169 25
+160 31
+147 11
+142 11
+116 17
+117 36
+128 36
+104 20
+76 12
+110 40
+100 14
+86 40
+32 12
+45 12
+125 45
+127 46
+78 40
+75 16
+Salto -> Punta_del_Este -> Lisboa -> Mision: Recuperar_llave - Lisboa - Tiempo de viaje: 117
+5 25
+52 1
+54 2
+137 3
+62 2
+92 5
+108 6
+120 7
+156 8
+118 5
+18 25
+117 11
+126 12
+137 13
+180 14
+188 15
+215 16
+189 9
+236 18
+135 5
+149 4
+35 25
+57 3
+14 25
+0 -1
+47 24
+108 26
+94 22
+76 23
+63 1
+81 30
+52 25
+95 32
+66 11
+61 11
+66 2
+67 36
+65 35
+84 38
+61 32
+70 32
+96 24
+71 40
+66 1
+13 25
+93 24
+19 25
+47 47
+83 37
+Lisboa -> Madrid -> Copenhague -> Mision: Acceder_a_sistemas_seguridad - Copenhague - Tiempo de viaje: 94
+141 2
+94 3
+92 4
+9 28
+70 4
+100 5
+116 6
+128 7
+164 8
+126 5
+150 5
+249 11
+258 12
+189 6
+232 14
+240 15
+267 16
+197 9
+244 18
+100 4
+21 4
+52 21
+95 3
+169 11
+87 22
+155 25
+53 4
+0 -1
+19 28
+40 28
+58 30
+53 29
+81 31
+118 32
+23 29
+78 35
+72 32
+27 35
+5 28
+62 32
+71 32
+111 41
+72 40
+27 29
+55 22
+102 29
+64 32
+6 28
+56 35
+Copenhague -> Helsinki -> Toronto -> Bogota -> Mision: Extraer_codigo_fuente - Bogota - Tiempo de viaje: 27
+181 2
+134 5
+136 2
+185 5
+124 6
+94 7
+78 8
+66 38
+102 8
+118 9
+145 8
+244 11
+253 12
+183 6
+226 14
+234 15
+261 16
+135 9
+182 18
+197 5
+120 9
+151 21
+139 3
+164 11
+163 11
+95 38
+156 26
+194 4
+71 8
+168 29
+180 23
+105 29
+55 38
+126 33
+4 38
+12 38
+13 36
+0 -1
+19 38
+107 39
+65 38
+105 41
+117 40
+79 29
+121 26
+154 29
+116 32
+109 40
+29 37
+Bogota -> Los_Angeles -> Paris -> Maldonado -> San_Pablo -> Mision: Desmantelar_red_cibernetica - San_Pablo - Tiempo de viaje: 182
+231 2
+184 5
+186 2
+235 5
+174 6
+144 7
+128 8
+116 9
+80 18
+96 9
+166 10
+265 11
+274 12
+233 6
+276 14
+284 15
+112 18
+47 19
+0 -1
+94 19
+98 9
+129 21
+163 9
+10 19
+24 24
+43 24
+104 26
+158 27
+97 26
+89 19
+107 30
+76 25
+94 24
+141 32
+81 18
+50 19
+51 36
+62 36
+81 38
+85 32
+94 32
+92 24
+95 40
+70 18
+37 25
+89 24
+43 25
+71 47
+67 37
+San_Pablo -> Maldonado -> Mision: Anular_defensas_enemigas - Maldonado - Tiempo de viaje: 47
+184 2
+137 5
+139 2
+188 5
+127 6
+97 7
+81 8
+69 9
+33 18
+49 9
+119 10
+218 11
+227 12
+186 6
+229 14
+237 15
+65 18
+0 -1
+47 18
+141 19
+51 9
+82 21
+116 9
+57 19
+71 24
+90 24
+151 26
+141 22
+74 8
+136 19
+114 9
+61 9
+104 32
+126 32
+34 18
+83 17
+80 32
+38 35
+57 38
+70 32
+79 32
+95 18
+80 40
+23 18
+73 44
+136 24
+72 32
+72 40
+67 35
+Maldonado -> San_Pablo -> Amsterdam -> Lisboa -> Mision: Neutralizar_amenaza - Lisboa - Tiempo de viaje: 71
+5 25
+52 1
+54 2
+137 3
+62 2
+92 5
+108 6
+120 7
+156 8
+118 5
+18 25
+117 11
+126 12
+137 13
+180 14
+188 15
+215 16
+189 9
+236 18
+135 5
+149 4
+35 25
+57 3
+14 25
+0 -1
+47 24
+108 26
+94 22
+76 23
+63 1
+81 30
+52 25
+95 32
+66 11
+61 11
+66 2
+67 36
+65 35
+84 38
+61 32
+70 32
+96 24
+71 40
+66 1
+13 25
+93 24
+19 25
+47 47
+83 37
+Lisboa -> Punta_del_Este -> Salto -> Rivera -> Canelones -> Colonia -> Mision: Desactivar_artefacto - Colonia - Tiempo de viaje: 180
+219 2
+172 5
+174 2
+223 5
+162 6
+132 14
+148 6
+160 7
+196 8
+212 9
+239 8
+338 11
+54 14
+43 15
+0 -1
+8 15
+35 16
+100 17
+147 18
+96 14
+65 17
+96 21
+147 22
+52 16
+66 24
+85 24
+53 15
+107 27
+126 28
+96 16
+114 30
+118 25
+136 24
+183 32
+130 29
+53 17
+54 36
+65 36
+84 38
+73 27
+102 27
+93 16
+83 40
+58 27
+79 25
+131 24
+85 25
+75 40
+12 16
+Colonia -> Canelones -> Rivera -> Mision: Recuperar_dispositivo - Rivera - Tiempo de viaje: 54
+245 2
+198 5
+200 2
+249 5
+188 11
+218 5
+234 6
+187 11
+223 8
+178 11
+108 12
+9 13
+0 -1
+11 13
+54 14
+62 15
+89 16
+154 17
+201 18
+64 14
+84 20
+115 21
+166 22
+106 16
+120 24
+139 24
+74 12
+128 27
+147 28
+150 16
+128 20
+172 25
+151 31
+156 11
+151 11
+107 17
+108 36
+119 36
+95 20
+85 12
+119 40
+91 14
+95 40
+41 12
+54 12
+134 45
+136 46
+87 40
+66 16
+Rivera -> Canelones -> Buenos_Aires -> Santiago_de_Chile -> Mision: Acceder_red_inteligencia - Santiago_de_Chile - Tiempo de viaje: 95
+204 2
+157 5
+159 2
+208 5
+147 6
+117 7
+101 8
+89 39
+125 8
+141 9
+168 8
+267 11
+276 12
+206 6
+249 14
+257 15
+284 16
+158 9
+205 18
+31 39
+51 20
+73 39
+124 22
+187 11
+108 22
+176 25
+237 26
+5 39
+24 28
+45 28
+63 30
+58 29
+57 39
+123 32
+28 29
+79 39
+77 32
+19 39
+0 -1
+67 32
+74 39
+114 41
+77 40
+32 29
+76 22
+107 29
+69 32
+11 28
+61 35
+Santiago_de_Chile -> Copenhague -> Helsinki -> El_Cairo -> Melbourne -> Mision: Infiltrar_red_de_mandos - Melbourne - Tiempo de viaje: 123
+110 2
+63 34
+65 2
+148 3
+73 2
+103 5
+119 6
+131 7
+167 8
+129 5
+48 34
+147 11
+156 12
+167 13
+210 14
+218 15
+245 16
+200 9
+247 18
+146 5
+160 4
+191 21
+68 3
+67 11
+66 11
+100 24
+161 26
+157 4
+87 23
+168 1
+109 23
+65 34
+71 34
+0 -1
+52 34
+77 2
+78 36
+56 35
+75 38
+74 32
+83 32
+123 41
+84 40
+95 29
+79 25
+88 34
+76 32
+76 40
+85 35
+Melbourne -> Punta_del_Este -> Lisboa -> Mision: Extraer_codigo_fuente - Lisboa - Tiempo de viaje: 66
+5 25
+52 1
+54 2
+137 3
+62 2
+92 5
+108 6
+120 7
+156 8
+118 5
+18 25
+117 11
+126 12
+137 13
+180 14
+188 15
+215 16
+189 9
+236 18
+135 5
+149 4
+35 25
+57 3
+14 25
+0 -1
+47 24
+108 26
+94 22
+76 23
+63 1
+81 30
+52 25
+95 32
+66 11
+61 11
+66 2
+67 36
+65 35
+84 38
+61 32
+70 32
+96 24
+71 40
+66 1
+13 25
+93 24
+19 25
+47 47
+83 37
+Lisboa -> Amsterdam -> Bangkok -> Mision: Identificar_objetivo_secundario - Bangkok - Tiempo de viaje: 24
+166 2
+119 5
+121 2
+170 5
+109 11
+139 5
+155 6
+108 11
+144 8
+99 11
+29 24
+128 11
+137 12
+148 13
+191 14
+54 24
+54 24
+119 17
+20 24
+114 19
+84 17
+115 21
+110 24
+10 50
+24 24
+43 24
+104 26
+158 27
+97 26
+109 19
+127 30
+76 25
+94 24
+77 11
+72 11
+70 19
+71 36
+76 35
+95 38
+85 32
+94 32
+92 24
+95 40
+105 29
+37 25
+89 24
+43 25
+71 47
+48 50
+Bangkok -> Amsterdam -> Paysandu -> Maldonado -> Mision: Recuperar_dispositivo - Maldonado - Tiempo de viaje: 119
+184 2
+137 5
+139 2
+188 5
+127 6
+97 7
+81 8
+69 9
+33 18
+49 9
+119 10
+218 11
+227 12
+186 6
+229 14
+237 15
+65 18
+0 -1
+47 18
+141 19
+51 9
+82 21
+116 9
+57 19
+71 24
+90 24
+151 26
+141 22
+74 8
+136 19
+114 9
+61 9
+104 32
+126 32
+34 18
+83 17
+80 32
+38 35
+57 38
+70 32
+79 32
+95 18
+80 40
+23 18
+73 44
+136 24
+72 32
+72 40
+67 35
+Maldonado -> San_Pablo -> Mision: Infiltrar_servidor_secreto - San_Pablo - Tiempo de viaje: 47
+231 2
+184 5
+186 2
+235 5
+174 6
+144 7
+128 8
+116 9
+80 18
+96 9
+166 10
+265 11
+274 12
+233 6
+276 14
+284 15
+112 18
+47 19
+0 -1
+94 19
+98 9
+129 21
+163 9
+10 19
+24 24
+43 24
+104 26
+158 27
+97 26
+89 19
+107 30
+76 25
+94 24
+141 32
+81 18
+50 19
+51 36
+62 36
+81 38
+85 32
+94 32
+92 24
+95 40
+70 18
+37 25
+89 24
+43 25
+71 47
+67 37
+San_Pablo -> Amsterdam -> Sidney -> Mision: Infiltrarse_base_enemiga - Sidney - Tiempo de viaje: 94
+240 2
+193 5
+195 2
+244 5
+183 11
+213 5
+229 6
+182 11
+218 8
+173 11
+103 24
+202 11
+211 12
+222 13
+265 14
+128 24
+128 24
+193 17
+94 24
+188 19
+158 17
+189 21
+184 24
+84 33
+96 33
+117 24
+178 26
+232 27
+171 26
+183 19
+23 33
+43 33
+0 -1
+71 33
+123 34
+68 33
+62 32
+55 33
+57 33
+52 32
+61 32
+101 41
+62 40
+104 43
+102 31
+159 34
+54 32
+27 31
+78 37
+Sidney -> Amsterdam -> Paysandu -> Maldonado -> Mision: Obtener_coordenadas_clave - Maldonado - Tiempo de viaje: 193
+184 2
+137 5
+139 2
+188 5
+127 6
+97 7
+81 8
+69 9
+33 18
+49 9
+119 10
+218 11
+227 12
+186 6
+229 14
+237 15
+65 18
+0 -1
+47 18
+141 19
+51 9
+82 21
+116 9
+57 19
+71 24
+90 24
+151 26
+141 22
+74 8
+136 19
+114 9
+61 9
+104 32
+126 32
+34 18
+83 17
+80 32
+38 35
+57 38
+70 32
+79 32
+95 18
+80 40
+23 18
+73 44
+136 24
+72 32
+72 40
+67 35
+Maldonado -> Toronto -> Bogota -> Santiago_de_Chile -> Mision: Neutralizar_amenaza - Santiago_de_Chile - Tiempo de viaje: 57
+204 2
+157 5
+159 2
+208 5
+147 6
+117 7
+101 8
+89 39
+125 8
+141 9
+168 8
+267 11
+276 12
+206 6
+249 14
+257 15
+284 16
+158 9
+205 18
+31 39
+51 20
+73 39
+124 22
+187 11
+108 22
+176 25
+237 26
+5 39
+24 28
+45 28
+63 30
+58 29
+57 39
+123 32
+28 29
+79 39
+77 32
+19 39
+0 -1
+67 32
+74 39
+114 41
+77 40
+32 29
+76 22
+107 29
+69 32
+11 28
+61 35
+Santiago_de_Chile -> Los_Angeles -> Paris -> Mision: Obtener_informacion_confidencial - Paris - Tiempo de viaje: 125
+151 2
+104 5
+106 2
+155 5
+94 6
+64 7
+48 8
+36 9
+0 -1
+16 9
+86 10
+185 11
+194 12
+153 6
+196 14
+204 15
+231 16
+33 9
+80 18
+167 5
+18 9
+49 21
+83 9
+90 19
+84 22
+123 24
+184 26
+108 22
+41 8
+138 29
+81 9
+28 9
+71 32
+93 32
+45 29
+94 10
+47 32
+49 35
+68 38
+37 32
+46 32
+86 41
+47 40
+49 29
+52 22
+124 29
+39 32
+39 40
+63 37
+Paris -> Los_Angeles -> Helsinki -> Toronto -> Bogota -> Mision: Descifrar_codigos - Bogota - Tiempo de viaje: 49
+181 2
+134 5
+136 2
+185 5
+124 6
+94 7
+78 8
+66 38
+102 8
+118 9
+145 8
+244 11
+253 12
+183 6
+226 14
+234 15
+261 16
+135 9
+182 18
+197 5
+120 9
+151 21
+139 3
+164 11
+163 11
+95 38
+156 26
+194 4
+71 8
+168 29
+180 23
+105 29
+55 38
+126 33
+4 38
+12 38
+13 36
+0 -1
+19 38
+107 39
+65 38
+105 41
+117 40
+79 29
+121 26
+154 29
+116 32
+109 40
+29 37
+Bogota -> Los_Angeles -> Paris -> Barcelona -> Mision: Desactivar_la_Entidad - Barcelona - Tiempo de viaje: 120
+Misiones ejecutadas con exito.
+Tiempo total de viaje: 3322
