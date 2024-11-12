@@ -1,0 +1,6 @@
+BE11, la mejor ruta es buscar equipo, Desactivar la Entidad y punto de extraccion con un costo de 59
+La otra opcion tiene un costo de 67
+Paso 1: Milan -> Mercedes -> Cracovia -> Lille -> Santiago_de_Chile -> Buscar equipo 
+Paso 2: Santiago_de_Chile -> Lille -> Carrasco -> Rivera -> Rabat -> Viena -> Roma -> Desactivar la Entidad 
+Paso 3: Roma -> Lusaka -> Costa_de_Oro -> Manama -> Bangalore -> Ir a Punto de Extraccion 
+
