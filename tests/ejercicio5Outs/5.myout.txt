@@ -1,33 +1,8 @@
 Ciudad inicial: Punta_Del_Este
-10 6
-360 1
-610 1
-1260 2
-910 3
 Punta_Del_Este -> Montevideo -> Mision: Recuperar_llave - Montevideo - Tiempo de viaje: 10
-0 -1
-350 1
-600 1
-1250 2
-900 3
 Montevideo -> New_York -> Mision: Desactivar_servidor - New_York - Tiempo de viaje: 350
-350 2
-0 -1
-500 2
-900 2
-800 3
 New_York -> Roma -> Mision: Obtener_informacion_confidencial - Roma - Tiempo de viaje: 500
-600 3
-500 3
-0 -1
-1400 2
-300 3
 Roma -> New_York -> Tokio -> Mision: Extraer_codigo_fuente - Tokio - Tiempo de viaje: 1400
-1250 2
-900 4
-1400 2
-0 -1
-1700 3
 Tokio -> New_York -> Roma -> Londres -> Mision: Desactivar_la_Entidad - Londres - Tiempo de viaje: 1700
 Misiones ejecutadas con exito.
 Tiempo total de viaje: 3960
