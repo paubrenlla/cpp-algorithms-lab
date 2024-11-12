@@ -2,5 +2,5 @@ BE11, la mejor ruta es buscar equipo, Desactivar la Entidad y punto de extraccio
 La otra opcion tiene un costo de 476
 Paso 1: Seul -> Barcelona -> Buenos_Aires -> Copenhague -> Helsinki -> Varsovia_Vieja -> Buscar equipo 
 Paso 2: Varsovia_Vieja -> Colonia -> Roma -> Berlin -> San_Pablo -> Desactivar la Entidad 
-Paso 3: San_Pablo -> Los_Angeles -> Paris -> Bruselas -> Ir a Punto de Extraccion 
+Paso 3: San_Pablo -> Los_Angeles -> Paris -> Bruselas -> Ir a Punto de extraccion 
 

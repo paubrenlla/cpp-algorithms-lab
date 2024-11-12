@@ -162,7 +162,7 @@ public:
             string alt = "La otra opcion tiene un costo de " + std::to_string(suma1Entity) + "\n";
             string start_team = "Paso 1: " + this->caminoRec(dijkstraStart, this->team) + "Buscar equipo \n";
             string team_entity = "Paso 2: " + this->caminoRec(dijkstraTeam, this->entity) + "Desactivar la Entidad \n";
-            string entity_end = "Paso 3: " + this->caminoRec(dijkstraEntity, this->end) + "Ir a Punto de Extraccion \n";
+            string entity_end = "Paso 3: " + this->caminoRec(dijkstraEntity, this->end) + "Ir a Punto de extraccion \n";
             return descripcion + alt + start_team + team_entity + entity_end;
         }
         if (suma1Entity < suma1Team)
@@ -171,7 +171,7 @@ public:
             string alt = "La otra opcion tiene un costo de " + std::to_string(suma1Team) + "\n";
             string start_entity = "Paso 1: " + this->caminoRec(dijkstraStart, this->entity) + "Desactivar la Entidad \n";
             string entity_team = "Paso 2: " + this->caminoRec(dijkstraEntity, this->team) + "Buscar equipo \n";
-            string team_end = "Paso 3: " + this->caminoRec(dijkstraTeam, this->end) + "Ir a Punto de Extraccion \n";
+            string team_end = "Paso 3: " + this->caminoRec(dijkstraTeam, this->end) + "Ir a Punto de extraccion \n";
             return descripcion + alt + start_entity + entity_team + team_end;
         }
 
