@@ -167,7 +167,7 @@ public:
         }
         if (suma1Entity < suma1Team)
         {
-            string descripcion = "BE11, la mejor ruta es buscar equipo, Desactivar la Entidad y punto de extraccion con un costo de " + std::to_string(suma1Entity) + "\n";
+            string descripcion = "BE11, la mejor ruta es Desactivar la Entidad, buscar equipo y punto de extraccion con un costo de " + std::to_string(suma1Entity) + "\n";
             string alt = "La otra opcion tiene un costo de " + std::to_string(suma1Team) + "\n";
             string start_entity = "Paso 1: " + this->caminoRec(dijkstraStart, this->entity) + "Desactivar la Entidad \n";
             string entity_team = "Paso 2: " + this->caminoRec(dijkstraEntity, this->team) + "Buscar equipo \n";

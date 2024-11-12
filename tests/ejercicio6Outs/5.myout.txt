@@ -1,4 +1,4 @@
-BE11, la mejor ruta es buscar equipo, Desactivar la Entidad y punto de extraccion con un costo de 100
+BE11, la mejor ruta es Desactivar la Entidad, buscar equipo y punto de extraccion con un costo de 100
 La otra opcion tiene un costo de 103
 Paso 1: Roma -> Montevideo -> Nueva_York -> Desactivar la Entidad 
 Paso 2: Nueva_York -> Montevideo -> Moscu -> Buscar equipo 
