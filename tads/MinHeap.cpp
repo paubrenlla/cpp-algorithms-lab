@@ -160,4 +160,9 @@ public:
         this->pop();
         return id;
     }
+
+    bool isEmpty()
+    { 
+        return this->ultimo == 0;
+    }
 };
