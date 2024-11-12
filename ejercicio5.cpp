@@ -205,11 +205,12 @@ public:
             }
         }
 
+/*
         for (int i = 1; i < this->cantCiudades; i++)
         {
             cout << dijkstraResutls[i][0] << " " << dijkstraResutls[i][1] << endl;
         }
-        
+*/        
 
         //cout << "comienzo" << endl;
         string setCompleted = this->marcarCompletada(hacerMision);
@@ -284,13 +285,12 @@ public:
         }
         costoVengo[origen][0] = 0;
 
-        MinHeapImp* cola = new MinHeapImp(this->cantCiudades);
-        cola->insertar(origen);
+        MinHeap* cola = new MinHeap(this->cantCiudades);
+        cola->add(origen, 0);
 
-        while (cola->estaVacio() == false)
+        while (!cola->isEmpty())
         {
-            int top = cola->tope();
-            cola->eliminarTope();
+            int top = cola->top();
 
             if (!visitado[top])
             {
@@ -306,7 +306,7 @@ public:
                     {
                         costoVengo[v][0] = costoVengo[top][0] + peso;
                         costoVengo[v][1] = top;
-                        cola->insertar(v);
+                        cola->add(v, costoVengo[v][0]);
                     }
                     it = it->siguiente;
                 }
