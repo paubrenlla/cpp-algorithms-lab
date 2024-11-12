@@ -1,104 +1,168 @@
-
-#ifndef MINHEAP
-#define MINHEAP
-#include <cassert>
-
 class MinHeap
 {
 private:
-    int* arr;
-    int posTope;
-    int capacidad;
-
-    void swap(int p1, int p2)
+    struct Nodo
     {
-        int aux = this->arr[p1];
-        this->arr[p1] = this->arr[p2];
-        this->arr[p2] = aux;
+        int id;
+        int costo;
+        int celda;
+
+        Nodo(int unId, int uncosto, int unaCelda) : id(unId), costo(uncosto), celda(unaCelda) {};
+    };
+
+    Nodo **nodoBH;
+
+    Nodo **existencia;
+
+    int ultimo;
+
+    void actualizar(int unId, int uncosto)
+    {
+        if (this->existencia[unId]->costo > uncosto)
+        {
+            this->existencia[unId]->costo = uncosto;
+            this->flotar(this->existencia[unId]->celda);
+        }
     }
 
     void flotar(int pos)
     {
-        if (pos > 1)
+        while (pos > 1)
         {
-            int posPadre = pos / 2;
-            if (this->arr[pos] < this->arr[posPadre])
+            int costoPadre = this->nodoBH[pos / 2]->costo;
+            int costoPos = this->nodoBH[pos]->costo;
+
+            if (costoPos < costoPadre)
             {
-                this->swap(posPadre, pos);
-                this->flotar(posPadre);
+                this->swap(pos, pos / 2);
+                pos = pos / 2;
+            }
+            else if (costoPos == costoPadre && this->nodoBH[pos]->id > this->nodoBH[pos / 2]->id)
+            {
+                this->swap(pos, pos / 2);
+                pos = pos / 2;
+            }
+            else 
+            {
+                return;
+            }
+        }
+    }
+
+    void agregar(int id, int costo)
+    {
+        this->ultimo = this->ultimo + 1;
+
+        this->nodoBH[this->ultimo] = new Nodo(id, costo, this->ultimo);
+        this->existencia[id] = this->nodoBH[this->ultimo];
+
+        this->flotar(this->ultimo);
+    }
+
+    void pop()
+    {
+        this->swap(this->ultimo, 1);
+
+        int id = this->nodoBH[this->ultimo]->id;
+        delete this->nodoBH[this->ultimo];
+        this->nodoBH[this->ultimo] = NULL;
+        this->existencia[id] = NULL;
+
+        this->ultimo--;
+        this->hundir(1);
+    }
+    
+    int mejorObjeto(int nodo1, int nodo2)
+    {
+        if (this->nodoBH[nodo1]->costo < this->nodoBH[nodo2]->costo)
+        {
+            return nodo1;
+        } 
+        else if (this->nodoBH[nodo1]->costo > this->nodoBH[nodo2]->costo)
+        {
+            return nodo2;
+        }
+        else 
+        {
+            if (this->nodoBH[nodo1]->id > this->nodoBH[nodo2]->id)
+            {
+                return nodo1;
+            }
+            else if (this->nodoBH[nodo1]->id < this->nodoBH[nodo2]->id)
+            {
+                return nodo2;
+            }
+            else
+            {
+                return -1;
             }
         }
     }
 
     void hundir(int pos)
     {
-        int posHijoIzq = pos * 2;
-        int posHijoDer = pos * 2 + 1;
-
-        if (posHijoIzq < posTope && posHijoDer < posTope)
-        {
-            int posHijoMenor = posHijoIzq;
-            if (this->arr[posHijoIzq] > this->arr[posHijoDer])
-            {
-                posHijoMenor = posHijoDer;
+        int hijoIzq = 2 * pos;
+        int hijoDer = hijoIzq + 1;
+        if (hijoIzq <= this->ultimo) {
+            int mejor = hijoIzq;
+            if (hijoDer <= this->ultimo) {
+                mejor = this->mejorObjeto(hijoIzq, hijoDer);
             }
-            
-            if (this->arr[pos] > this->arr[posHijoMenor])
-            {
-                this->swap(pos, posHijoMenor);
-                this->hundir(posHijoMenor);
+            if (mejor != -1 && this->mejorObjeto(pos, mejor) == mejor) {
+                this->swap(pos, mejor);
+                this->hundir(mejor);
             }
         }
+    }
 
-        else if (posHijoIzq < posTope)
-        {
-            if (this->arr[pos] > this->arr[posHijoIzq])
-            {
-                this->swap(pos, posHijoIzq);
-                this->hundir(posHijoIzq);
-            }
-        }
+    void swap(int i, int j)
+    {
+        Nodo *temp = this->nodoBH[i];
+
+        this->nodoBH[i]->celda = j;
+        this->nodoBH[i] = this->nodoBH[j];
+
+        this->nodoBH[j]->celda = i;
+        this->nodoBH[j] = temp;
     }
 
 public:
-    MinHeap(int unaCapacidad)
+    MinHeap(int esperados)
     {
+        this->existencia = new Nodo *[esperados + 1];
 
-        this->arr = new int[unaCapacidad + 1]();
-        this->posTope = 1;
-        this->capacidad = unaCapacidad;
+        this->nodoBH = new Nodo *[esperados + 1];
+
+        for (int i = 0; i < esperados + 1; i++)
+        {
+            this->existencia[i] = NULL;
+            this->nodoBH[i] = NULL;
+        }
+
+        this->ultimo = 0;
     }
 
-    int tope()
+    void add(int id, int costo)
     {
-        assert(!this->estaVacio());
-        return this->arr[1];
+        if (this->existencia[id] != NULL)
+        {
+            this->actualizar(id, costo);
+        }
+        else
+        {
+            this->agregar(id, costo);
+        }
     }
 
-    void eliminarTope()
+    int top()
     {
-        assert(!this->estaVacio());
-        this->arr[1] = this->arr[posTope - 1];
-        this->posTope--;
-        this->hundir(1);
+        int id = this->nodoBH[1]->id;
+        this->pop();
+        return id;
     }
 
-    void insertar(int el)
-    {
-        assert(!this->estaLleno());
-        this->arr[posTope++] = el;
-        this->flotar(posTope - 1);
-    }
-
-    bool estaLleno()
-    {
-        return this->posTope > this->capacidad;
-    }
-
-    bool estaVacio()
-    {
-        return this->posTope == 1;
+    bool isEmpty()
+    { 
+        return this->ultimo == 0;
     }
 };
-
-#endif
