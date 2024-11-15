@@ -4,8 +4,8 @@
 g++ -std=c++11 -o ejercicio8 ejercicio8.cpp
 
 # Lista de archivos de entrada y salida esperada
-inputs=("10.in.txt" "100.in.txt" "1000.in.txt" "10000.in.txt" "100000.in.txt", "1000000.in.txt")
-outputs=("10.out.txt" "100.out.txt" "1000.out.txt" "10000.out.txt" "100000.out.txt", "1000000.out.txt")
+inputs=("10.in.txt" "100.in.txt" "1000.in.txt" "10000.in.txt" "100000.in.txt" "1000000.in.txt")
+outputs=("10.out.txt" "100.out.txt" "1000.out.txt" "10000.out.txt" "100000.out.txt" "1000000.out.txt")
 
 # Directorio de pruebas
 test_dir="tests/ejercicio8"

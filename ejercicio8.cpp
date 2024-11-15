@@ -96,6 +96,7 @@ private:
 
         double distanciaMinima = min(distanciaIzquierda, distanciaDerecha);
         Tuple<int, int> mejorPar;
+
         if (distanciaIzquierda < distanciaDerecha)
         {
             mejorPar = parIzquierdo;
@@ -105,35 +106,35 @@ private:
             mejorPar = parDerecho;
         }
 
-        Ciudad **banda = new Ciudad *[n];
-        int bandaSize = 0;
+        Ciudad** aux = new Ciudad *[n];
+        int auxSize = 0;
         for (int i = 0; i < n; ++i)
         {
             if (hacerPositivo(ciudadesOrdenadasY[i]->x - midX) < distanciaMinima)
             {
-                banda[bandaSize++] = ciudadesOrdenadasY[i];
+                aux[auxSize++] = ciudadesOrdenadasY[i];
             }
         }
 
         int sumaPoblacionMaxima = ciudades[mejorPar.getFirst()].poblacion + ciudades[mejorPar.getSecond()].poblacion;
-        for (int i = 0; i < bandaSize; ++i)
+        for (int i = 0; i < auxSize; ++i)
         {
-            for (int j = i + 1; j < bandaSize && (banda[j]->y - banda[i]->y) < distanciaMinima; ++j)
+            for (int j = i + 1; j < auxSize && (aux[j]->y - aux[i]->y) < distanciaMinima; ++j)
             {
-                double distancia = distanciaEfectiva(banda[i], banda[j]);
-                int sumaPoblacion = banda[i]->poblacion + banda[j]->poblacion;
+                double distancia = distanciaEfectiva(aux[i], aux[j]);
+                int sumaPoblacion = aux[i]->poblacion + aux[j]->poblacion;
 
                 if (distancia < distanciaMinima ||
                     (distancia == distanciaMinima && sumaPoblacion > sumaPoblacionMaxima))
                 {
                     distanciaMinima = distancia;
                     sumaPoblacionMaxima = sumaPoblacion;
-                    mejorPar = Tuple<int, int>(banda[i] - ciudades, banda[j] - ciudades);
+                    mejorPar = Tuple<int, int>(aux[i] - ciudades, aux[j] - ciudades);
                 }
             }
         }
 
-        delete[] banda;
+        delete[] aux;
         return mejorPar;
     }
 
