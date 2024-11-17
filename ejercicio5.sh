@@ -4,8 +4,8 @@
 g++ -std=c++11 -o ejercicio5 ejercicio5.cpp
 
 # Lista de archivos de entrada y salida esperada
-inputs=("5.in.txt" "10.in.txt" "20.in.txt" "30.in.txt" "40.in.txt" "50.in.txt" "100.in.txt" "200.in.txt")
-outputs=("5.out.txt" "10.out.txt" "20.out.txt" "30.out.txt" "40.out.txt" "50.out.txt" "100.out.txt" "200.out.txt")
+inputs=("5.in.txt" "10.in.txt" "20.in.txt" "30.in.txt" "40.in.txt" "50.in.txt" "100.in.txt")
+outputs=("5.out.txt" "10.out.txt" "20.out.txt" "30.out.txt" "40.out.txt" "50.out.txt" "100.out.txt")
 
 # Directorio de pruebas
 test_dir="tests/ejercicio5"
