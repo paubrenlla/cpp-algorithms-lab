@@ -125,14 +125,8 @@ public:
 
     void addConexion(int origen, int destino, int costo)
     {
-        if (this->conexiones[origen][destino] == -1)
-        {
-            this->conexiones[origen][destino] = costo;
-        }
-        if (this->conexiones[destino][origen] == -1)
-        {
-            this->conexiones[destino][origen] = costo;
-        }
+        this->conexiones[origen][destino] = costo;
+        this->conexiones[destino][origen] = costo;
     }
 
     string procesar()
@@ -183,7 +177,6 @@ public:
 
 int main()
 {
-
     int cantCiudades;
     cin >> cantCiudades;
 
