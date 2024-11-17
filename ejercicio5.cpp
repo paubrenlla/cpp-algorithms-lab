@@ -173,6 +173,7 @@ public:
         {
             return -1;
         }
+        
         return nroMision;
     }
 
@@ -184,7 +185,7 @@ public:
         int hacerMision = this->misionesTotales + 1;
         for (int i = 1; i <= this->cantCiudades; i++)
         {
-            if (this->ciudades[i] != NULL && i != this->ciudadActual)
+            if (this->ciudades[i] != NULL)
             {
                 int mejorMision = this->mejorMisionDeCiudad(i);
 
@@ -204,13 +205,6 @@ public:
                 }
             }
         }
-
-/*
-        for (int i = 1; i < this->cantCiudades; i++)
-        {
-            cout << dijkstraResutls[i][0] << " " << dijkstraResutls[i][1] << endl;
-        }
-*/        
 
         //cout << "comienzo" << endl;
         string setCompleted = this->marcarCompletada(hacerMision);
@@ -248,6 +242,7 @@ public:
 
     string marcarCompletada(int mision)
     {
+        //cout << mision << " " << this->misionesTotales << endl;
         this->misiones[mision]->completada = true;
         
         ListImp<int>* aux = this->misiones[mision]->idPosteriores;
@@ -256,7 +251,7 @@ public:
             this->misiones[aux->get(i)]->previasPorCompletar--;
         }
         this->misionesRestantes--;
-        string ret =  "Mision: " + this->misiones[mision]->nombre + " ";
+        string ret = "Mision: " + this->misiones[mision]->nombre + " ";
         return ret;
     }
 
@@ -372,14 +367,8 @@ int main()
 
         cin >> cOrigen >> cDestino >> costo;
 
-        if (!matriz[cOrigen][cDestino])
-        {
-            misiones->addConexion(cOrigen, cDestino, costo);
-        } 
-        if (!matriz[cDestino][cOrigen])
-        {
-            misiones->addConexion(cDestino, cOrigen, costo);
-        }
+        misiones->addConexion(cOrigen, cDestino, costo);
+        misiones->addConexion(cDestino, cOrigen, costo);
     }
     
     cout << "Ciudad inicial: " << misiones->getNombreCiudadActual() << endl;

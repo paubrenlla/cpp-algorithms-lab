@@ -21,3 +21,13 @@ Colonia -> Madrid -> Brasilia -> Vancouver -> Mision: Desactivar_servidor - Vanc
 Vancouver -> Bangkok -> Londres -> Paris -> Mision: Detener_fuga_de_informacion - Paris - Tiempo de viaje: 42
 Paris -> Londres -> Moscu -> Amsterdam -> Mision: Liberar_informacion - Amsterdam - Tiempo de viaje: 75
 Amsterdam -> Moscu -> Londres -> Bangkok -> Mision: Neutralizar_vehiculo - Bangkok - Tiempo de viaje: 49
+Bangkok -> Mision: Interceptar_transmision_secreta - Bangkok - Tiempo de viaje: 0
+Bangkok -> Londres -> Paris -> Bogota -> Bruselas -> Estocolmo -> Mision: Establecer_punto_seguro - Estocolmo - Tiempo de viaje: 57
+Estocolmo -> Madrid -> Brasilia -> Buenos_Aires -> Maldonado -> Mision: Recuperar_llave - Maldonado - Tiempo de viaje: 46
+Maldonado -> Rivera -> Ciudad_de_Mexico -> Bogota -> Paris -> Toronto -> Mision: Infiltrar_servidor_secreto - Toronto - Tiempo de viaje: 77
+Toronto -> Paris -> Barcelona -> Johannesburgo -> Mision: Eliminar_trazabilidad_de_mision - Johannesburgo - Tiempo de viaje: 95
+Johannesburgo -> Nueva_York -> Santiago_de_Chile -> Mision: Recuperar_acceso_sistema_critico - Santiago_de_Chile - Tiempo de viaje: 89
+Santiago_de_Chile -> Quito -> Helsinki -> Copenhague -> Singapur -> Mision: Recuperar_datos_sensibles - Singapur - Tiempo de viaje: 60
+Singapur -> Dubai -> Lisboa -> Moscu -> Mision: Desactivar_la_Entidad - Moscu - Tiempo de viaje: 77
+Misiones ejecutadas con exito.
+Tiempo total de viaje: 1582

@@ -1,6 +1,0 @@
-Ciudad inicial: Lima
-Lima -> Berlin -> Singapur -> Mision: Acceder_a_sistemas_seguridad - Singapur - Tiempo de viaje: 56
-Singapur -> Berlin -> San_Pablo -> Maldonado -> Bangkok -> Toronto -> Mision: Impedir_sabotaje_inminente - Toronto - Tiempo de viaje: 73
-Toronto -> Vancouver -> Lima -> Londres -> Bogota -> Varsovia -> Helsinki -> Mision: Anular_defensas_enemigas - Helsinki - Tiempo de viaje: 38
-Helsinki -> Varsovia -> Bogota -> Londres -> Lima -> Vancouver -> Beijing -> Barcelona -> Nueva_York -> Mision: Descubrir_identidad_de_infiltrados - Nueva_York - Tiempo de viaje: 46
-Nueva_York -> Brasilia -> Toronto -> Sidney -> Mision: Recolectar_evidencias - Sidney - Tiempo de viaje: 59

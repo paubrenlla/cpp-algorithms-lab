@@ -14,3 +14,10 @@ Ciudad_del_Cabo -> Johannesburgo -> Colonia -> Durazno -> Mision: Interceptar_me
 Durazno -> Colonia -> El_Cairo -> Caracas -> Mision: Sabotear_instalacion - Caracas - Tiempo de viaje: 29
 Caracas -> El_Cairo -> Colonia -> Durazno -> Barcelona -> Buenos_Aires -> Atenas -> Mision: Rastrear_satelite_pirata - Atenas - Tiempo de viaje: 34
 Atenas -> Vancouver -> Santiago_de_Chile -> Mision: Desactivar_servidor - Santiago_de_Chile - Tiempo de viaje: 14
+Santiago_de_Chile -> Mision: Proteger_testigo_vip - Santiago_de_Chile - Tiempo de viaje: 0
+Santiago_de_Chile -> Vancouver -> Atenas -> Buenos_Aires -> Barcelona -> Durazno -> Paysandu -> Mision: Eliminar_trazabilidad_de_mision - Paysandu - Tiempo de viaje: 69
+Paysandu -> Durazno -> Barcelona -> Bruselas -> Beijing -> Lisboa -> Mision: Infiltrarse_grupo - Lisboa - Tiempo de viaje: 98
+Lisboa -> Beijing -> Bruselas -> Barcelona -> Buenos_Aires -> Atenas -> Amsterdam -> Canelones -> Mision: Proteger_emisarios - Canelones - Tiempo de viaje: 95
+Canelones -> Colonia -> Mision: Desactivar_la_Entidad - Colonia - Tiempo de viaje: 63
+Misiones ejecutadas con exito.
+Tiempo total de viaje: 1031
