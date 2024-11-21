@@ -8,7 +8,16 @@ using namespace std;
 class Jugadores
 {
 private:
-    int** jugadores;
+    struct Jugador
+    {
+        int valoracion;
+        int salario;
+        bool extranjero;
+
+        Jugador(int v, int s, bool e) : valoracion(v), salario(s), extranjero(e) {};
+    };
+
+    Jugador **jugadores;
     int cantJugadores;
 
     int promedio(int ritmo, int tiro, int pase, int regate, int defensa, int fisico)
@@ -36,7 +45,7 @@ private:
     {
         if (forma == "Lesionado")
         {
-            return -1;    
+            return -1;
         }
         if (forma == "Mala")
         {
@@ -52,16 +61,33 @@ private:
         }
     }
 
+    void ordenar(int index)
+    {
+        if (index == 0)
+        {
+            return;
+        }
+        if (this->jugadores[index]->valoracion < this->jugadores[index - 1]->valoracion)
+        {
+            return;
+        }
+        if (this->jugadores[index]->valoracion > this->jugadores[index - 1]->valoracion || this->jugadores[index]->salario < this->jugadores[index - 1]->salario)
+        {
+            Jugador *aux = this->jugadores[index];
+            this->jugadores[index] = this->jugadores[index - 1];
+            this->jugadores[index - 1] = aux;
+            this->ordenar(index - 1);
+        }
+    }
+
 public:
     Jugadores(int cant)
     {
         this->cantJugadores = cant;
-        this->jugadores[3][cant];
+        this->jugadores = new Jugador *[cant];
         for (int i = 0; i < cant; i++)
         {
-            this->jugadores[0][i] = 0;
-            this->jugadores[1][i] = 0;
-            this->jugadores[2][i] = 0;
+            this->jugadores[i] = NULL;
         }
     }
 
@@ -70,30 +96,71 @@ public:
         int promedio = this->promedio(ritmo, tiro, pase, regate, defensa, fisico);
         int forma = this->formaFisica(formaFisica);
         int conf = this->confianza(confianza);
-        
+
         int valoracion = 0;
 
-        if (forma != -1)
+        if (forma == -1)
         {
-            valoracion = promedio + forma + conf;
-        }
-        
-        this->jugadores[0][index] = valoracion;
-        this->jugadores[1][index] = salario;
-        
-        if (extranjero == "Si")
-        {
-            this->jugadores[2][index] = 1;
+            valoracion = 0;
         }
         else
         {
-            this->jugadores[2][index] = 0;
+            valoracion = promedio + forma + conf;
         }
+
+        if (valoracion > 100)
+        {
+            valoracion = 100;
+        }
+
+        bool extr = extranjero == "Si";
+
+        this->jugadores[index] = new Jugador(valoracion, salario, extr);
+        this->ordenar(index);
     }
 
     void procesar(int presupuesto, int cantExtranjeros)
     {
-
+        int ***dp = new int **[cantJugadores + 1];
+        for (int i = 0; i <= cantJugadores; ++i)
+        {
+            dp[i] = new int *[presupuesto + 1];
+            for (int j = 0; j <= presupuesto; ++j)
+            {
+                dp[i][j] = new int[cantExtranjeros + 1];
+                fill(dp[i][j], dp[i][j] + cantExtranjeros + 1, 0);
+            }
+        }
+        for (int i = 1; i <= cantJugadores; ++i)
+        {
+            for (int p = 0; p <= presupuesto; ++p)
+            {
+                for (int e = 0; e <= cantExtranjeros; ++e)
+                {
+                    dp[i][p][e] = dp[i - 1][p][e]; // No incluir al jugador i-ésimo
+                    if (p >= jugadores[i - 1]->salario)
+                    {
+                        if (jugadores[i - 1]->extranjero && e > 0)
+                        {
+                            dp[i][p][e] = max(dp[i][p][e], dp[i - 1][p - jugadores[i - 1]->salario][e - 1] + jugadores[i - 1]->valoracion);
+                        }
+                        else if (!jugadores[i - 1]->extranjero)
+                        {
+                            dp[i][p][e] = max(dp[i][p][e], dp[i - 1][p - jugadores[i - 1]->salario][e] + jugadores[i - 1]->valoracion);
+                        }
+                    }
+                }
+            }
+        }
+        int maxValoracion = 0;
+        for (int p = 0; p <= presupuesto; ++p)
+        {
+            for (int e = 0; e <= cantExtranjeros; ++e)
+            {
+                maxValoracion = max(maxValoracion, dp[cantJugadores][p][e]);
+            }
+        }
+        cout << maxValoracion / 11 << endl; // Promedio de valoración del once inicial
     }
 };
 
@@ -102,13 +169,13 @@ int main()
     int cantJugadores;
     cin >> cantJugadores;
 
-    Jugadores* jugadores = new Jugadores(cantJugadores);
+    Jugadores *equipo = new Jugadores(cantJugadores);
 
     for (int i = 0; i < cantJugadores; i++)
     {
         int ritmo, tiro, pase, regate, defensa, fisico;
         cin >> ritmo >> tiro >> pase >> regate >> defensa >> fisico;
-        
+
         string formaFisica;
         cin >> formaFisica;
 
@@ -116,16 +183,16 @@ int main()
         cin >> salario;
 
         string extranjero, confianza;
-        cin >> extranjero, confianza;
-        
-        jugadores->add(ritmo, tiro, pase, regate, defensa, fisico, formaFisica, confianza, salario, extranjero, i);
+        cin >> extranjero >> confianza;
+
+        equipo->add(ritmo, tiro, pase, regate, defensa, fisico, formaFisica, confianza, salario, extranjero, i);
     }
-    
+
     int presupuesto, cantExtranjeros;
 
     cin >> presupuesto >> cantExtranjeros;
 
-    jugadores->procesar(presupuesto, cantExtranjeros);
+    equipo->procesar(presupuesto, cantExtranjeros);
 
     return 0;
 }
