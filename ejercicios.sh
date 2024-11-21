@@ -18,3 +18,6 @@ echo "Ejercicio 6"
 
 echo "Ejercicio 7"
 ./ejercicio7.sh
+
+echo "Ejercicio 10"
+./ejercicio10.sh
