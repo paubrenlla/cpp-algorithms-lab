@@ -10,13 +10,13 @@ class Ejercicio7
 private:
     int* duraciones;
     int cantCanciones;
-    double sumaDuraciones;
+    int sumaDuraciones;
     int cantAlumnos;
     int maxIndex;
     
-    bool esFactible(long long tiempoMax) {
+    bool esFactible(int tiempoMax) {
         int alumnosUsados = 1;
-        double tiempoActual = 0;
+        int tiempoActual = 0;
 
         for (int i = 0; i < this->cantCanciones; ++i) {
             if (tiempoActual + this->duraciones[i] <= tiempoMax) {
@@ -32,12 +32,12 @@ private:
         return true;
     }
 
-    void dividirCanciones(long long tiempoMax) {
+    void dividirCanciones(int tiempoMax) {
         int asignaciones[cantAlumnos][2]; // Para almacenar las posiciones inicial y final de las canciones asignadas a cada estudiante
-        long long tiemposTotales[cantAlumnos] = {0}; // Para almacenar el tiempo total de cada estudiante
+        int tiemposTotales[cantAlumnos] = {0}; // Para almacenar el tiempo total de cada estudiante
 
         int estudianteActual = 0;
-        long long tiempoActual = 0;
+        int tiempoActual = 0;
         int inicio = 1; // Posición inicial de la primera canción asignada (1-indexado)
 
         for (int i = 0; i < cantCanciones; ++i) {
@@ -104,13 +104,13 @@ public:
 
     void procesar()
     {
-        double respuesta = this->sumaDuraciones;
-        double inicio = this->duraciones[this->maxIndex];
-        double fin = this->sumaDuraciones;
+        int respuesta = this->sumaDuraciones;
+        int inicio = this->duraciones[this->maxIndex];
+        int fin = this->sumaDuraciones;
 
         while (inicio <= fin)
         {
-            double medio = inicio + (fin - inicio) / 2;
+            int medio = inicio + (fin - inicio) / 2;
 
             if (this->esFactible(medio)) {
                 respuesta = medio;
