@@ -121,47 +121,71 @@ public:
 
     void procesar(int presupuesto, int cantExtranjeros)
     {
-        int ***dp = new int **[cantJugadores + 1];
-        for (int i = 0; i <= cantJugadores; ++i)
+        int jugadoresNecesarios = 11;
+
+        int ****dp = new int ***[cantJugadores + 1];
+        for (int i = 0; i <= cantJugadores; i++)
         {
-            dp[i] = new int *[presupuesto + 1];
-            for (int j = 0; j <= presupuesto; ++j)
+            dp[i] = new int **[presupuesto + 1];
+            for (int p = 0; p <= presupuesto; p++)
             {
-                dp[i][j] = new int[cantExtranjeros + 1];
-                fill(dp[i][j], dp[i][j] + cantExtranjeros + 1, 0);
-            }
-        }
-        for (int i = 1; i <= cantJugadores; ++i)
-        {
-            for (int p = 0; p <= presupuesto; ++p)
-            {
-                for (int e = 0; e <= cantExtranjeros; ++e)
+                dp[i][p] = new int *[cantExtranjeros + 1];
+                for (int e = 0; e <= cantExtranjeros; e++)
                 {
-                    dp[i][p][e] = dp[i - 1][p][e]; // No incluir al jugador i-ésimo
-                    if (p >= jugadores[i - 1]->salario)
-                    {
-                        if (jugadores[i - 1]->extranjero && e > 0)
+                    dp[i][p][e] = new int[jugadoresNecesarios + 1];
+                    for (int n = 0; n <= jugadoresNecesarios; n++){
+                        if (n == 0) 
                         {
-                            dp[i][p][e] = max(dp[i][p][e], dp[i - 1][p - jugadores[i - 1]->salario][e - 1] + jugadores[i - 1]->valoracion);
+                            dp[i][p][e][n] = 0;
                         }
-                        else if (!jugadores[i - 1]->extranjero)
+                        else
                         {
-                            dp[i][p][e] = max(dp[i][p][e], dp[i - 1][p - jugadores[i - 1]->salario][e] + jugadores[i - 1]->valoracion);
+                            dp[i][p][e][n] = INT_MIN;
                         }
                     }
                 }
             }
         }
-        int maxValoracion = 0;
-        for (int p = 0; p <= presupuesto; ++p)
+
+        for (int i = 1; i <= cantJugadores; i++)
         {
-            for (int e = 0; e <= cantExtranjeros; ++e)
+            for (int p = 0; p <= presupuesto; p++)
             {
-                maxValoracion = max(maxValoracion, dp[cantJugadores][p][e]);
+                for (int e = 0; e <= cantExtranjeros; e++)
+                {
+                    for (int n = 0; n <= jugadoresNecesarios; n++)
+                    {
+                        dp[i][p][e][n] = dp[i - 1][p][e][n];
+
+                        Jugador *jug = jugadores[i - 1];
+                        if (jug->salario <= p && n > 0)
+                        {
+                            if (!jug->extranjero || (jug->extranjero && e > 0))
+                            {
+                                int nuevoPresupuesto = p - jug->salario;
+                                int nuevoExtranjeros;
+                                if (jug->extranjero)
+                                {
+                                    nuevoExtranjeros = e - 1;
+                                }
+                                else
+                                {
+                                    nuevoExtranjeros = e;
+                                }
+                                dp[i][p][e][n] = max(dp[i][p][e][n],
+                                                     dp[i - 1][nuevoPresupuesto][nuevoExtranjeros][n - 1] + jug->valoracion);
+                            }
+                        }
+                    }
+                }
             }
         }
-        cout << maxValoracion / 11 << endl; // Promedio de valoración del once inicial
+
+        int mejorValoracion = dp[cantJugadores][presupuesto][cantExtranjeros][jugadoresNecesarios];
+        cout << mejorValoracion / jugadoresNecesarios << endl;
+
     }
+        
 };
 
 int main()
