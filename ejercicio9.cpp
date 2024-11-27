@@ -61,25 +61,6 @@ private:
         }
     }
 
-    void ordenar(int index)
-    {
-        if (index == 0)
-        {
-            return;
-        }
-        if (this->jugadores[index]->valoracion < this->jugadores[index - 1]->valoracion)
-        {
-            return;
-        }
-        if (this->jugadores[index]->valoracion > this->jugadores[index - 1]->valoracion || this->jugadores[index]->salario < this->jugadores[index - 1]->salario)
-        {
-            Jugador *aux = this->jugadores[index];
-            this->jugadores[index] = this->jugadores[index - 1];
-            this->jugadores[index - 1] = aux;
-            this->ordenar(index - 1);
-        }
-    }
-
 public:
     Jugadores(int cant)
     {
@@ -116,7 +97,6 @@ public:
         bool extr = extranjero == "Si";
 
         this->jugadores[index] = new Jugador(valoracion, salario, extr);
-        this->ordenar(index);
     }
 
     void procesar(int presupuesto, int cantExtranjeros)
