@@ -24,3 +24,6 @@ echo "Ejercicio 9"
 
 echo "Ejercicio 10"
 ./ejercicio10.sh
+
+echo "Ejercicio 8"
+./ejercicio8.sh

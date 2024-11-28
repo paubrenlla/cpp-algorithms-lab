@@ -3,7 +3,6 @@
 #include <iostream>
 #include <climits>
 #include "tads/ListImp.cpp"
-#include "tads/Iterator.cpp"
 #include "tads/MinHeap.cpp"
 
 using namespace std;

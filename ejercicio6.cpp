@@ -184,7 +184,7 @@ public:
         this->ciudades[origen]->cantConexiones++;
     }
     
-    string procesar()
+    void procesar()
     {
         //start-team-entity-end
         Ciudad** step = copiaCiudades();
