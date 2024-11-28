@@ -118,6 +118,7 @@ public:
 
             intentos++;
         }
+        return "libro_no_encontrado";
     }
 
     string toggle(int unId)
@@ -153,6 +154,7 @@ public:
 
             intentos++;
         }
+        return "libro_no_encontrado";
     }
 
     string count()

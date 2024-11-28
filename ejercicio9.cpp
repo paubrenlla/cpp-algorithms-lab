@@ -35,10 +35,8 @@ private:
         {
             return 0;
         }
-        if (c == "Alta")
-        {
-            return 5;
-        }
+        
+        return 5;
     }
 
     int formaFisica(string forma)
@@ -55,10 +53,7 @@ private:
         {
             return 0;
         }
-        if (forma == "Buena")
-        {
-            return 5;
-        }
+        return 5;
     }
 
 public:
