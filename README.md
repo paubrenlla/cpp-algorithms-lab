@@ -1,32 +1,29 @@
-# Plantilla para Obligatorio de C++
+# EDA 2 | Advanced Data Structures & Algorithms Lab
 
-Este repositorio es una plantilla para comenzar los trabajos obligatorios de la materia de Estructura de Datos y Algoritmos 2 en C++.
+> **Academic Capstone Project** | Data Structures and Algorithms 2 (Estructura de Datos y Algoritmos 2)  
+> **Universidad ORT Uruguay** | Semester: March 2023
 
-## Estructura del Repositorio
+## Project Overview
+This repository contains the implementation of several fundamental and advanced computer science algorithms, developed for the *Data Structures and Algorithms II* (EDA 2) course. The project focuses on efficiency, memory management, and the practical application of abstract data types (TADs) in C++.
 
-- `funciones/`: Carpeta para funciones auxiliares que puedes utilizar en tus ejercicios.
-- `tads/`: Carpeta para Tipos Abstractos de Datos (TADs) que puedes necesitar para los ejercicios.
-- `ejercicioX.cpp`: Archivos fuente de plantilla para cada uno de los ejercicios del obligatorio.
+## Implemented Structures & Exercises
+The project is divided into 10 specialized exercises covering:
+* **Priority Queues:** Custom `MinHeap` implementation for efficient data retrieval.
+* **Graph Algorithms:** Solving connectivity and pathfinding problems.
+* **Custom TADs:** Implementation of Tuples, Lists, and specialized containers.
+* **Optimization:** Algorithmic solutions designed to pass strict time and memory complexity constraints.
 
-## Cómo Usar esta Plantilla
+## Testing & Validation
+The repository includes a comprehensive `tests/` directory with:
+* **Input/Output Files:** Multiple test cases per exercise (`.in.txt` / `.out.txt`).
+* **Stress Testing:** Cases with up to 1,000,000 elements to ensure O(log n) or O(n) performance.
 
-Para empezar a trabajar con esta plantilla, haz lo siguiente:
+## Technical Stack
+* **Language:** C++
+* **Paradigm:** Procedural & Object-Oriented (TADs)
+* **Tools:** GCC/G++, Standard Template Library (STL) basics, and manual memory management.
 
-1. Haz clic en el botón **Use this template** para crear un nuevo repositorio en tu cuenta de GitHub.
-2. Clona el repositorio en tu entorno local.
-3. Elige el ejercicio que deseas comenzar y abre el archivo `.cpp` correspondiente.
-4. Escribe tu código en la sección indicada del archivo.
-
-## Compilación y Ejecución
-
-Para compilar tu código, puedes usar el siguiente comando en la terminal:
-
-```bash
-g++ -std=c++11 -o nombre_del_ejecutable tu_archivo_fuente.cpp
-```
-
-Para ejecutar tu programa:
-
-```bash
-./nombre_del_ejecutable
-```
+## Key Files
+* `tads/`: Implementation of core data structures.
+* `ejercicio1.cpp` to `ejercicio10.cpp`: Specific problem-solving logic.
+* `funciones/`: Utility functions for data manipulation.
