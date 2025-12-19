@@ -1,7 +1,7 @@
 # EDA 2 | Advanced Data Structures & Algorithms Lab
 
 > **Academic Capstone Project** | Data Structures and Algorithms 2 (Estructura de Datos y Algoritmos 2)  
-> **Universidad ORT Uruguay** | Semester: March 2023
+> **Universidad ORT Uruguay** | Semester: August 2024
 
 ## Project Overview
 This repository contains the implementation of several fundamental and advanced computer science algorithms, developed for the *Data Structures and Algorithms II* (EDA 2) course. The project focuses on efficiency, memory management, and the practical application of abstract data types (TADs) in C++.
